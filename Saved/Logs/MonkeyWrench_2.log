@@ -141,3 +141,705 @@ LogInit: Branch Name: ++UE4+Release-4.14
 LogInit: Command line:  
 LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.14/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.01.31-15.43.05:205][  0]LogInit: Selected Device Profile: [Windows]
+[2017.01.31-15.43.05:205][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.01.31-15.43.05:255][  0]LogInit: Computer: MATTLINEBACK-PC
+[2017.01.31-15.43.05:255][  0]LogInit: User: mattlineback
+[2017.01.31-15.43.05:255][  0]LogInit: CPU Page size=65536, Cores=2
+[2017.01.31-15.43.05:255][  0]LogInit: High frequency timer resolution =3.020491 MHz
+[2017.01.31-15.43.05:255][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2017.01.31-15.43.05:255][  0]LogMemory: Platform Memory Stats for Windows
+[2017.01.31-15.43.05:256][  0]LogMemory: Process Physical Memory: 263.63 MB used, 263.63 MB peak
+[2017.01.31-15.43.05:256][  0]LogMemory: Process Virtual Memory: 262.39 MB used, 262.39 MB peak
+[2017.01.31-15.43.05:256][  0]LogMemory: Physical Memory: 4696.40 MB used,  3478.24 MB free, 8174.64 MB total
+[2017.01.31-15.43.05:256][  0]LogMemory: Virtual Memory: 674.55 MB used,  3478.24 MB free, 134217728.00 MB total
+[2017.01.31-15.43.05:367][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2017.01.31-15.43.08:405][  0]LogD3D11RHI: D3D11 adapters:
+[2017.01.31-15.43.08:414][  0]LogD3D11RHI:    0. 'AMD Radeon HD 6450' (Feature Level 11_0)
+[2017.01.31-15.43.08:414][  0]LogD3D11RHI:       1008/0/3840 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2017.01.31-15.43.08:416][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.01.31-15.43.08:416][  0]LogD3D11RHI:       0/0/4087 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.01.31-15.43.08:416][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.01.31-15.43.08:423][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.01.31-15.43.08:423][  0]LogD3D11RHI:     GPU DeviceId: 0x6779 (for the marketing name, search the web for "GPU Device Id")
+[2017.01.31-15.43.08:423][  0]LogWindows: EnumDisplayDevices:
+[2017.01.31-15.43.08:423][  0]LogWindows:    0. 'AMD Radeon HD 6450' (P:1 D:1)
+[2017.01.31-15.43.08:423][  0]LogWindows:    1. 'AMD Radeon HD 6450' (P:0 D:0)
+[2017.01.31-15.43.08:424][  0]LogWindows:    2. 'AMD Radeon HD 6450' (P:0 D:0)
+[2017.01.31-15.43.08:424][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2017.01.31-15.43.08:424][  0]LogD3D11RHI:     Adapter Name: AMD Radeon HD 6450
+[2017.01.31-15.43.08:424][  0]LogD3D11RHI:   Driver Version: Crimson 16.2.1 (internal:15.301.1901.0, unified:15.301.1901.0)
+[2017.01.31-15.43.08:424][  0]LogD3D11RHI:      Driver Date: 2-26-2016
+[2017.01.31-15.43.08:424][  0]LogRHI: Texture pool is 706 MB (70% of 1008 MB)
+[2017.01.31-15.43.08:431][  0]LogD3D11RHI: Async texture creation enabled
+[2017.01.31-15.43.08:445][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2017.01.31-15.43.08:446][  0]LogShaderCompilers: Guid format shader working directory is -8 characters bigger than the processId version (../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Intermediate/Shaders/WorkingDirectory/632/).
+[2017.01.31-15.43.08:446][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/mattlineback/AppData/Local/Temp/UnrealShaderWorkingDir/A3E53FDE4E7084A95AC593A52BB195B5/'.
+[2017.01.31-15.43.08:446][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.01.31-15.43.10:923][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.01.31-15.43.11:035][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.01.31-15.43.11:130][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.01.31-15.43.11:216][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.01.31-15.43.11:405][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.01.31-15.43.11:488][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.01.31-15.43.11:569][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.01.31-15.43.11:657][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.01.31-15.43.11:723][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.01.31-15.43.11:824][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.01.31-15.43.11:903][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.01.31-15.43.11:983][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.01.31-15.43.12:061][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.01.31-15.43.12:138][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.01.31-15.43.12:216][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.01.31-15.43.12:374][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.01.31-15.43.12:374][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.01.31-15.43.12:432][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.01.31-15.43.12:599][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.01.31-15.43.12:656][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.01.31-15.43.12:733][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.01.31-15.43.12:809][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.01.31-15.43.12:886][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.01.31-15.43.12:973][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.01.31-15.43.12:973][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.01.31-15.43.13:620][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.01.31-15.43.14:904][  0]LogDerivedDataCache: Loaded boot cache 1.28s 50MB C:/Users/mattlineback/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.01.31-15.43.14:904][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/mattlineback/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2017.01.31-15.43.14:905][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/mattlineback/monkeywrench/monkeywrench/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.01.31-15.43.14:905][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.01.31-15.43.14:905][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/mattlineback/monkeywrench/monkeywrench/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.01.31-15.43.14:905][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.01.31-15.43.14:925][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.01.31-15.43.14:937][  0]LogDerivedDataCache: Using Local data cache path C:/Users/mattlineback/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.01.31-15.43.15:235][  0]LogInit: Selected Device Profile: [Windows]
+[2017.01.31-15.43.15:240][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.01.31-15.43.15:535][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.01.31-15.43.15:599][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.01.31-15.43.15:670][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.01.31-15.43.15:670][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.01.31-15.43.15:670][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.01.31-15.43.16:446][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: monkeywrench, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 690626690
+[2017.01.31-15.43.16:517][  0]LogAssetRegistry: FAssetRegistry took 0.0218 seconds to start up
+[2017.01.31-15.43.16:592][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.036369 seconds
+[2017.01.31-15.43.16:599][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2017.01.31-15.43.16:599][  0]LogUObjectAllocator: 6935840 out of 0 bytes used by permanent object pool.
+[2017.01.31-15.43.16:599][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.01.31-15.43.16:707][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.01.31-15.43.18:380][  0]LogSlate: Using Freetype 2.6.0
+[2017.01.31-15.43.18:417][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.01.31-15.43.18:417][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.01.31-15.43.33:973][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.01.31-15.43.34:035][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.01.31-15.43.34:665][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.01.31-15.43.35:324][  0]SourceControl: Info Source control is disabled
+[2017.01.31-15.43.35:363][  0]SourceControl: Info Source control is disabled
+[2017.01.31-15.43.35:441][  0]SourceControl: Info Source control is disabled
+[2017.01.31-15.43.35:519][  0]SourceControl: Info Source control is disabled
+[2017.01.31-15.43.37:643][  0]LogEngine: Initializing Engine...
+[2017.01.31-15.43.37:644][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.01.31-15.43.37:977][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.01.31-15.43.37:986][  0]LogInit: XAudio2 using 'AMD HDMI Output (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.31-15.43.37:998][  0]LogInit: FAudioDevice initialized.
+[2017.01.31-15.43.38:031][  0]LogDerivedDataCache: Saved boot cache 0.03s 50MB C:/Users/mattlineback/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.01.31-15.43.38:048][  0]LogInit: Texture streaming: Enabled
+[2017.01.31-15.43.38:339][  0]LogInit: Transaction tracking system initialized
+[2017.01.31-15.43.38:962][  0]BlueprintLog: New page: Editor Load
+[2017.01.31-15.43.40:337][  0]LocalizationService: Info Localization service is disabled
+[2017.01.31-15.43.41:375][  0]LogConsoleResponse:Display: 
+[2017.01.31-15.43.42:128][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.01.31-15.43.42:128][  0]LogCook:Display: Mobile HDR setting 1
+[2017.01.31-15.43.42:351][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mattlineback/monkeywrench/monkeywrench/Content/' took 0.05s
+[2017.01.31-15.43.43:773][  0]SourceControl: Info Source control is disabled
+[2017.01.31-15.43.43:773][  0]Cmd: MAP LOAD FILE="../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.01.31-15.43.43:774][  0]LightingResults: New page: Lighting Build
+[2017.01.31-15.43.43:834][  0]MapCheck: New page: Map Check
+[2017.01.31-15.43.43:834][  0]LightingResults: New page: Lighting Build
+[2017.01.31-15.43.44:372][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.01.31-15.43.44:379][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.01.31-15.43.44:380][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.01.31-15.43.44:444][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 63.466ms to complete.
+[2017.01.31-15.43.44:444][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.671
+[2017.01.31-15.43.44:809][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.01.31-15.43.44:815][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.01.31-15.43.44:902][  0]LogLoad: (Engine Initialization) Total time: 44.71 seconds
+[2017.01.31-15.43.44:902][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.17 seconds
+[2017.01.31-15.43.44:902][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.01.31-15.43.44:902][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.01.31-15.43.45:242][  0]LogOcInput: OculusInput pre-init called
+[2017.01.31-15.43.45:284][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.01.31-15.43.45:579][  0]LogRenderer: Reallocating scene render targets to support 1208x924 NumSamples 1 (Frame:2).
+[2017.01.31-15.43.46:033][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/mattlineback/monkeywrench/monkeywrench/Content/' took 0.78s
+[2017.01.31-15.43.46:362][  2]LogAssetRegistry: Asset discovery search completed in 29.8674 seconds
+[2017.01.31-15.43.46:409][  2]LogCollectionManager: Loaded 0 collections in 0.003100 seconds
+[2017.01.31-15.43.46:442][  2]LogFileCache: Scanning file cache for directory 'C:/Users/mattlineback/monkeywrench/monkeywrench/Saved/Collections/' took 0.01s
+[2017.01.31-15.43.46:442][  2]LogFileCache: Scanning file cache for directory 'C:/Users/mattlineback/monkeywrench/monkeywrench/Content/Developers/mattlineback/Collections/' took 0.01s
+[2017.01.31-15.43.46:442][  2]LogFileCache: Scanning file cache for directory 'C:/Users/mattlineback/monkeywrench/monkeywrench/Content/Collections/' took 0.01s
+[2017.01.31-15.43.46:442][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000002 seconds (found 0 objects)
+[2017.01.31-15.43.46:442][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000069 seconds (updated 0 objects)
+[2017.01.31-15.53.20:685][694]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.01.31-15.53.20:697][694]LogContentBrowser: Native class hierarchy populated in 0.0116 seconds. Added 2192 classes and 432 folders.
+[2017.01.31-15.53.20:757][694]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.01.31-15.53.20:758][694]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.01.31-15.53.20:758][694]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0006 seconds. Added 13 classes and 0 folders.
+[2017.01.31-15.53.20:851][694]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.01.31-15.53.21:402][694]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2017.01.31-15.59.01:940][378]LogRenderer: Reallocating scene render targets to support 1528x924 NumSamples 1 (Frame:2103).
+[2017.01.31-15.59.42:377][811]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.01.31-16.02.28:661][646]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2017.01.31-16.04.45:070][ 80]Cmd: TRANSACTION UNDO
+[2017.01.31-16.04.45:080][ 80]LogEditorTransaction: Undo Insert Key Frame
+[2017.01.31-16.04.48:438][138]Cmd: TRANSACTION UNDO
+[2017.01.31-16.04.48:438][138]LogEditorTransaction: Undo Clicking on Actors
+[2017.01.31-16.05.33:270][474]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.033
+[2017.01.31-16.05.33:272][474]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/IdleAnimation] ([1] browsable assets)...
+[2017.01.31-16.05.33:294][474]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/2DSideScroller/Sprites/IdleAnimation.IdleAnimation]
+[2017.01.31-16.05.33:295][474]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/IdleAnimation]
+[2017.01.31-16.05.33:318][474]LogSavePackage: Save=11.22ms
+[2017.01.31-16.05.33:318][474]LogSavePackage: Moving '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/IdleAnimation_Auto11F5F9A1F468ACE57D5ACAFB7E8005CBF.tmp' to '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/Autosaves/Game/2DSideScroller/Sprites/IdleAnimation_Auto1.uasset'
+[2017.01.31-16.05.33:319][474]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/Autosaves/Game/2DSideScroller/Sprites/IdleAnimation_Auto1.uasset
+[2017.01.31-16.05.33:320][474]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/NewPaperFlipbook] ([1] browsable assets)...
+[2017.01.31-16.05.33:332][474]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/2DSideScroller/Sprites/NewPaperFlipbook.NewPaperFlipbook]
+[2017.01.31-16.05.33:332][474]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/NewPaperFlipbook]
+[2017.01.31-16.05.33:342][474]LogSavePackage: Save=7.66ms
+[2017.01.31-16.05.33:342][474]LogSavePackage: Moving '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/NewPaperFlipbook_Auto1F61EAE8947F3FD88D563F8A6DCDAE8B2.tmp' to '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/Autosaves/Game/2DSideScroller/Sprites/NewPaperFlipbook_Auto1.uasset'
+[2017.01.31-16.05.33:343][474]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/Autosaves/Game/2DSideScroller/Sprites/NewPaperFlipbook_Auto1.uasset
+[2017.01.31-16.05.33:344][474]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/Monkey_Run_Frames/monkey] ([1] browsable assets)...
+[2017.01.31-16.05.33:358][474]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/2DSideScroller/Sprites/Monkey_Run_Frames/monkey.monkey]
+[2017.01.31-16.05.33:358][474]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/Monkey_Run_Frames/monkey]
+[2017.01.31-16.05.33:368][474]LogSavePackage: Save=8.16ms
+[2017.01.31-16.05.33:368][474]LogSavePackage: Moving '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/monkey_Auto1AF690A0C4243C611F813B7A48452B929.tmp' to '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/Autosaves/Game/2DSideScroller/Sprites/Monkey_Run_Frames/monkey_Auto1.uasset'
+[2017.01.31-16.05.33:370][474]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/Autosaves/Game/2DSideScroller/Sprites/Monkey_Run_Frames/monkey_Auto1.uasset
+[2017.01.31-16.05.33:371][474]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/Monkey_Idle_Frames/monkey_idle_2] ([1] browsable assets)...
+[2017.01.31-16.05.33:376][474]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScroller/Sprites/Monkey_Idle_Frames/monkey_idle_2.monkey_idle_2]
+[2017.01.31-16.05.33:376][474]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/Monkey_Idle_Frames/monkey_idle_2]
+[2017.01.31-16.05.33:386][474]LogSavePackage: Save=8.16ms
+[2017.01.31-16.05.33:386][474]LogSavePackage: Moving '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/monkey_idle_2_Auto179C070C64A5802A36E26C0AE74EE8E13.tmp' to '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/Autosaves/Game/2DSideScroller/Sprites/Monkey_Idle_Frames/monkey_idle_2_Auto1.uasset'
+[2017.01.31-16.05.33:388][474]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/Autosaves/Game/2DSideScroller/Sprites/Monkey_Idle_Frames/monkey_idle_2_Auto1.uasset
+[2017.01.31-16.05.33:389][474]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/Monkey_Idle_Frames/monkey_idle_2x_2] ([1] browsable assets)...
+[2017.01.31-16.05.33:398][474]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScroller/Sprites/Monkey_Idle_Frames/monkey_idle_2x_2.monkey_idle_2x_2]
+[2017.01.31-16.05.33:398][474]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/Monkey_Idle_Frames/monkey_idle_2x_2]
+[2017.01.31-16.05.33:411][474]LogSavePackage: Save=9.97ms
+[2017.01.31-16.05.33:411][474]LogSavePackage: Moving '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/monkey_idle_2x_2_Auto155E3FE0E4B15D723CF7D33BBD2F8F8E2.tmp' to '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/Autosaves/Game/2DSideScroller/Sprites/Monkey_Idle_Frames/monkey_idle_2x_2_Auto1.uasset'
+[2017.01.31-16.05.33:412][474]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/Autosaves/Game/2DSideScroller/Sprites/Monkey_Idle_Frames/monkey_idle_2x_2_Auto1.uasset
+[2017.01.31-16.05.33:413][474]LogFileHelpers: Auto-saving content packages took 0.142
+[2017.01.31-16.09.37:521][968]LogSavePackage: Save=11.25ms
+[2017.01.31-16.09.37:521][968]LogSavePackage: Moving '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/IdleAnimationAC78A61745D0F15D54BCA29A304440BA.tmp' to '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/IdleAnimation.uasset'
+[2017.01.31-16.09.37:531][968]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/IdleAnimation.uasset
+[2017.01.31-16.09.48:287][590]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.31-16.09.48:308][590]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.01.31-16.09.48:330][590]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.31-16.09.48:433][590]PIE: New page: PIE session: 2DSideScrollerExampleMap (Jan 31, 2017, 6:09:48 AM)
+[2017.01.31-16.09.48:444][590]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2017.01.31-16.09.48:509][590]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065298s)
+[2017.01.31-16.09.48:510][590]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.01.31-16.09.48:526][590]LogPlayLevel: PIE: World Init took: (0.016749s)
+[2017.01.31-16.09.48:539][590]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.095401s)
+[2017.01.31-16.09.48:599][590]LogInit: XAudio2 using 'AMD HDMI Output (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.31-16.09.48:611][590]LogInit: FAudioDevice initialized.
+[2017.01.31-16.09.48:831][590]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.01.31-16.09.48:947][590]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2017.01.31-11.09.48
+[2017.01.31-16.09.49:027][590]LogWorld: Bringing up level for play took: 0.083721
+[2017.01.31-16.09.49:321][590]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2017.01.31-16.09.49:364][590]PIE: Info Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 1.563
+[2017.01.31-16.09.49:364][590]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.01.31-16.10.12:785][963]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.01.31-16.10.12:965][963]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.01.31-16.12.51:290][369]LogSavePackage: Save=16.26ms
+[2017.01.31-16.12.51:290][369]LogSavePackage: Moving '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/RunningAnimationA7ADD8494021E3A66BD14A9D2B458155.tmp' to '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/RunningAnimation.uasset'
+[2017.01.31-16.12.51:294][369]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/RunningAnimation.uasset
+[2017.01.31-16.12.56:746][570]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.31-16.12.56:760][570]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.01.31-16.12.56:760][570]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.31-16.12.56:760][570]PIE: New page: PIE session: 2DSideScrollerExampleMap (Jan 31, 2017, 6:12:56 AM)
+[2017.01.31-16.12.56:760][570]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2017.01.31-16.12.56:764][570]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003784s)
+[2017.01.31-16.12.56:765][570]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.01.31-16.12.56:765][570]LogPlayLevel: PIE: World Init took: (0.000832s)
+[2017.01.31-16.12.56:765][570]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.004857s)
+[2017.01.31-16.12.56:793][570]LogInit: XAudio2 using 'AMD HDMI Output (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.31-16.12.56:802][570]LogInit: FAudioDevice initialized.
+[2017.01.31-16.12.56:854][570]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.01.31-16.12.56:858][570]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2017.01.31-11.12.56
+[2017.01.31-16.12.56:859][570]LogWorld: Bringing up level for play took: 0.003904
+[2017.01.31-16.12.56:861][570]PIE: Info Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 1.06
+[2017.01.31-16.12.56:861][570]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.01.31-16.13.51:676][441]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.01.31-16.13.51:775][441]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.01.31-16.15.15:410][348]LogSavePackage: Save=10.94ms
+[2017.01.31-16.15.15:410][348]LogSavePackage: Moving '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/RunningAnimationF9C546C748D564CCCC1739B2A3944A2B.tmp' to '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/RunningAnimation.uasset'
+[2017.01.31-16.15.15:417][348]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/RunningAnimation.uasset
+[2017.01.31-16.15.19:955][570]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.31-16.15.19:970][570]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.01.31-16.15.19:970][570]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.31-16.15.19:970][570]PIE: New page: PIE session: 2DSideScrollerExampleMap (Jan 31, 2017, 6:15:19 AM)
+[2017.01.31-16.15.19:970][570]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2017.01.31-16.15.19:975][570]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004896s)
+[2017.01.31-16.15.19:976][570]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.01.31-16.15.19:976][570]LogPlayLevel: PIE: World Init took: (0.001048s)
+[2017.01.31-16.15.19:976][570]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.006249s)
+[2017.01.31-16.15.20:002][570]LogInit: XAudio2 using 'AMD HDMI Output (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.31-16.15.20:011][570]LogInit: FAudioDevice initialized.
+[2017.01.31-16.15.20:040][570]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.01.31-16.15.20:043][570]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2017.01.31-11.15.20
+[2017.01.31-16.15.20:043][570]LogWorld: Bringing up level for play took: 0.002519
+[2017.01.31-16.15.20:044][570]PIE: Info Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.244
+[2017.01.31-16.15.20:044][570]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.01.31-16.15.43:859][949]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.01.31-16.15.43:958][949]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.01.31-16.20.47:701][823]LogSavePackage: Save=14.72ms
+[2017.01.31-16.20.47:701][823]LogSavePackage: Moving '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/RunningAnimation76254E8C42DA2E5483AD05ABC9E56EEB.tmp' to '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/RunningAnimation.uasset'
+[2017.01.31-16.20.47:704][823]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/RunningAnimation.uasset
+[2017.01.31-16.21.05:475][295]LogSavePackage: Save=33.79ms
+[2017.01.31-16.21.05:475][295]LogSavePackage: Moving '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/monkey_idle_2x_Sprite7362AC8340F30ECAFE166BBE08BE6710.tmp' to '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/IdleFrames/monkey_idle_2x_Sprite.uasset'
+[2017.01.31-16.21.05:479][295]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/IdleFrames/monkey_idle_2x_Sprite.uasset
+[2017.01.31-16.21.05:521][295]LogSavePackage: Save=11.79ms
+[2017.01.31-16.21.05:521][295]LogSavePackage: Moving '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/monkey_idle_SpriteF8ED2196415ECD3B7098E684FED1F1E1.tmp' to '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/IdleFrames/monkey_idle_Sprite.uasset'
+[2017.01.31-16.21.05:525][295]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/IdleFrames/monkey_idle_Sprite.uasset
+[2017.01.31-16.21.05:590][295]LogSavePackage: Save=43.05ms
+[2017.01.31-16.21.05:590][295]LogSavePackage: Moving '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/monkey_idle_21829EA9F47D6814FA2D9F38D7EFDC539.tmp' to '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Idle_Frames/monkey_idle_2.uasset'
+[2017.01.31-16.21.05:599][295]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Idle_Frames/monkey_idle_2.uasset
+[2017.01.31-16.21.05:632][295]LogSavePackage: Save=11.56ms
+[2017.01.31-16.21.05:632][295]LogSavePackage: Moving '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/monkey_idle_2x_26E38D450465C06380B95BBABD2656770.tmp' to '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Idle_Frames/monkey_idle_2x_2.uasset'
+[2017.01.31-16.21.05:640][295]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Idle_Frames/monkey_idle_2x_2.uasset
+[2017.01.31-16.21.05:677][295]LogSavePackage: Save=8.09ms
+[2017.01.31-16.21.05:677][295]LogSavePackage: Moving '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/monkeyE82E5F544443BD4DA9F19FAE1CFA4F19.tmp' to '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Run_Frames/monkey.uasset'
+[2017.01.31-16.21.05:683][295]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Run_Frames/monkey.uasset
+[2017.01.31-16.21.05:719][295]LogSavePackage: Save=11.66ms
+[2017.01.31-16.21.05:719][295]LogSavePackage: Moving '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/monkey_run_1_2x_Sprite11C9B7BD4802168CE7D777AA26202B24.tmp' to '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Run_Frames/monkey_run_1_2x_Sprite.uasset'
+[2017.01.31-16.21.05:722][295]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Run_Frames/monkey_run_1_2x_Sprite.uasset
+[2017.01.31-16.21.05:751][295]LogSavePackage: Save=11.82ms
+[2017.01.31-16.21.05:752][295]LogSavePackage: Moving '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/monkey_run_1_SpriteE18580BF44EAD89ECDC110BCD8ADAC2D.tmp' to '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Run_Frames/monkey_run_1_Sprite.uasset'
+[2017.01.31-16.21.05:755][295]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Run_Frames/monkey_run_1_Sprite.uasset
+[2017.01.31-16.21.05:785][295]LogSavePackage: Save=12.13ms
+[2017.01.31-16.21.05:785][295]LogSavePackage: Moving '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/monkey_run_2_2x_Sprite3602DB0247861E4E5AE8009A1E6D17A4.tmp' to '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Run_Frames/monkey_run_2_2x_Sprite.uasset'
+[2017.01.31-16.21.05:788][295]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Run_Frames/monkey_run_2_2x_Sprite.uasset
+[2017.01.31-16.21.05:818][295]LogSavePackage: Save=11.60ms
+[2017.01.31-16.21.05:818][295]LogSavePackage: Moving '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/monkey_run_2_Sprite1DA0256F44B109FE317F93AD05DE51C2.tmp' to '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Run_Frames/monkey_run_2_Sprite.uasset'
+[2017.01.31-16.21.05:821][295]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Run_Frames/monkey_run_2_Sprite.uasset
+[2017.01.31-16.21.05:857][295]LogSavePackage: Save=12.13ms
+[2017.01.31-16.21.05:857][295]LogSavePackage: Moving '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/monkey_run_3_2x_SpriteEFC1DBE34EBAE82A27674AB0F8732A09.tmp' to '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Run_Frames/monkey_run_3_2x_Sprite.uasset'
+[2017.01.31-16.21.05:861][295]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Run_Frames/monkey_run_3_2x_Sprite.uasset
+[2017.01.31-16.21.05:890][295]LogSavePackage: Save=12.28ms
+[2017.01.31-16.21.05:890][295]LogSavePackage: Moving '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/monkey_run_3_SpriteD4F25C3C47113E8595298C92142196D0.tmp' to '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Run_Frames/monkey_run_3_Sprite.uasset'
+[2017.01.31-16.21.05:894][295]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Run_Frames/monkey_run_3_Sprite.uasset
+[2017.01.31-16.21.05:929][295]LogSavePackage: Save=11.82ms
+[2017.01.31-16.21.05:929][295]LogSavePackage: Moving '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/monkey_run_4_2x_SpriteA1641BD845A5FD332B9949A4CE76CA51.tmp' to '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Run_Frames/monkey_run_4_2x_Sprite.uasset'
+[2017.01.31-16.21.05:932][295]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Run_Frames/monkey_run_4_2x_Sprite.uasset
+[2017.01.31-16.21.05:962][295]LogSavePackage: Save=12.34ms
+[2017.01.31-16.21.05:962][295]LogSavePackage: Moving '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/monkey_run_4_Sprite818ABF9E4F240E2066FE2D8CA147EE82.tmp' to '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Run_Frames/monkey_run_4_Sprite.uasset'
+[2017.01.31-16.21.05:966][295]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Run_Frames/monkey_run_4_Sprite.uasset
+[2017.01.31-16.21.06:002][295]LogSavePackage: Save=11.88ms
+[2017.01.31-16.21.06:002][295]LogSavePackage: Moving '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/monkey_run_5_2x_SpriteF5933EBD4F2F7A74A2DA08A10C445071.tmp' to '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Run_Frames/monkey_run_5_2x_Sprite.uasset'
+[2017.01.31-16.21.06:005][295]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Run_Frames/monkey_run_5_2x_Sprite.uasset
+[2017.01.31-16.21.06:034][295]LogSavePackage: Save=11.94ms
+[2017.01.31-16.21.06:034][295]LogSavePackage: Moving '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/monkey_run_5_Sprite21C06C0646F667F8B12CD886399E3954.tmp' to '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Run_Frames/monkey_run_5_Sprite.uasset'
+[2017.01.31-16.21.06:037][295]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Run_Frames/monkey_run_5_Sprite.uasset
+[2017.01.31-16.21.06:076][295]LogSavePackage: Save=15.37ms
+[2017.01.31-16.21.06:076][295]LogSavePackage: Moving '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/monkey_run_6_2x_Sprite3DB3890C482F09CEACDF398DEAA420B1.tmp' to '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Run_Frames/monkey_run_6_2x_Sprite.uasset'
+[2017.01.31-16.21.06:079][295]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Run_Frames/monkey_run_6_2x_Sprite.uasset
+[2017.01.31-16.21.06:111][295]LogSavePackage: Save=11.95ms
+[2017.01.31-16.21.06:111][295]LogSavePackage: Moving '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/monkey_run_6_Sprite94B5291945334232F4523AAE43504670.tmp' to '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Run_Frames/monkey_run_6_Sprite.uasset'
+[2017.01.31-16.21.06:114][295]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Run_Frames/monkey_run_6_Sprite.uasset
+[2017.01.31-16.21.06:149][295]LogSavePackage: Save=11.94ms
+[2017.01.31-16.21.06:149][295]LogSavePackage: Moving '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/monkey_run_7_2x_Sprite05BCEFFC4C184DAC828AB38D6130A90E.tmp' to '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Run_Frames/monkey_run_7_2x_Sprite.uasset'
+[2017.01.31-16.21.06:152][295]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Run_Frames/monkey_run_7_2x_Sprite.uasset
+[2017.01.31-16.21.06:182][295]LogSavePackage: Save=11.82ms
+[2017.01.31-16.21.06:182][295]LogSavePackage: Moving '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/monkey_run_7_Sprite9BD14CD746F9EDC571418FB3D4A8F505.tmp' to '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Run_Frames/monkey_run_7_Sprite.uasset'
+[2017.01.31-16.21.06:184][295]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Run_Frames/monkey_run_7_Sprite.uasset
+[2017.01.31-16.21.06:220][295]LogSavePackage: Save=11.98ms
+[2017.01.31-16.21.06:220][295]LogSavePackage: Moving '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/monkey_run_8_2x_SpriteA6EFAD274F002A0F95F6F6848819945A.tmp' to '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Run_Frames/monkey_run_8_2x_Sprite.uasset'
+[2017.01.31-16.21.06:222][295]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Run_Frames/monkey_run_8_2x_Sprite.uasset
+[2017.01.31-16.21.06:251][295]LogSavePackage: Save=11.75ms
+[2017.01.31-16.21.06:251][295]LogSavePackage: Moving '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/monkey_run_8_Sprite3A7EF5A8453A2CE89B57048511CB84F5.tmp' to '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Run_Frames/monkey_run_8_Sprite.uasset'
+[2017.01.31-16.21.06:254][295]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Run_Frames/monkey_run_8_Sprite.uasset
+[2017.01.31-16.21.06:279][295]LogSavePackage: Save=7.72ms
+[2017.01.31-16.21.06:279][295]LogSavePackage: Moving '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/NewPaperFlipbookBEF368D742D9FCD163374D8C9B45CD4B.tmp' to '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/NewPaperFlipbook.uasset'
+[2017.01.31-16.21.06:281][295]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/NewPaperFlipbook.uasset
+[2017.01.31-16.22.35:192][990]Cmd: TRANSACTION UNDO
+[2017.01.31-16.22.35:192][990]LogEditorTransaction: Undo Insert assets as frames
+[2017.01.31-16.23.10:548][364]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.31-16.23.10:563][364]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.01.31-16.23.10:563][364]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.31-16.23.10:563][364]PIE: New page: PIE session: 2DSideScrollerExampleMap (Jan 31, 2017, 6:23:10 AM)
+[2017.01.31-16.23.10:563][364]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2017.01.31-16.23.10:567][364]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003524s)
+[2017.01.31-16.23.10:567][364]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.01.31-16.23.10:568][364]LogPlayLevel: PIE: World Init took: (0.001001s)
+[2017.01.31-16.23.10:568][364]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.004826s)
+[2017.01.31-16.23.10:596][364]LogInit: XAudio2 using 'AMD HDMI Output (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.31-16.23.10:606][364]LogInit: FAudioDevice initialized.
+[2017.01.31-16.23.10:641][364]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.01.31-16.23.10:643][364]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2017.01.31-11.23.10
+[2017.01.31-16.23.10:644][364]LogWorld: Bringing up level for play took: 0.002339
+[2017.01.31-16.23.10:645][364]PIE: Info Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.844
+[2017.01.31-16.23.10:645][364]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.01.31-17.54.48:973][657]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.01.31-17.54.49:110][657]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.01.31-17.54.57:892][980]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (Background_Sprite)
+[2017.01.31-17.55.07:983][853]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.31-17.55.07:997][853]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.01.31-17.55.07:998][853]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.31-17.55.07:998][853]PIE: New page: PIE session: 2DSideScrollerExampleMap (Jan 31, 2017, 7:55:07 AM)
+[2017.01.31-17.55.07:998][853]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2017.01.31-17.55.08:003][853]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004538s)
+[2017.01.31-17.55.08:003][853]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.01.31-17.55.08:004][853]LogPlayLevel: PIE: World Init took: (0.001297s)
+[2017.01.31-17.55.08:004][853]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.006145s)
+[2017.01.31-17.55.08:034][853]LogInit: XAudio2 using 'AMD HDMI Output (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.31-17.55.08:045][853]LogInit: FAudioDevice initialized.
+[2017.01.31-17.55.08:075][853]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.01.31-17.55.08:078][853]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2017.01.31-12.55.08
+[2017.01.31-17.55.08:079][853]LogWorld: Bringing up level for play took: 0.002939
+[2017.01.31-17.55.08:081][853]PIE: Info Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.28
+[2017.01.31-17.55.08:081][853]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.01.31-18.15.43:116][733]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.01.31-18.15.43:166][733]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.01.31-18.17.00:135][656]LogSavePackage: Save=378.25ms
+[2017.01.31-18.17.00:135][656]LogSavePackage: Moving '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/2DSideScrollerExampleMap578C39FC4B3236E60A7427BC73A20686.tmp' to '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2017.01.31-18.17.00:138][656]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap
+[2017.01.31-18.17.00:190][656]LogSavePackage: Save=5.82ms
+[2017.01.31-18.17.00:190][656]LogSavePackage: Moving '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/2DSideScrollerExampleMap_BuiltData258BCB6C4124997869EDF688FE1C28EE.tmp' to '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2017.01.31-18.17.00:191][656]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset
+[2017.01.31-18.17.05:347][707]LogSavePackage: Save=13.35ms
+[2017.01.31-18.17.05:347][707]LogSavePackage: Moving '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/RunningAnimationD69493644C715667321940AF38750844.tmp' to '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/RunningAnimation.uasset'
+[2017.01.31-18.17.05:350][707]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/RunningAnimation.uasset
+[2017.01.31-18.19.05:529][990]LogSavePackage: Save=12.99ms
+[2017.01.31-18.19.05:529][990]LogSavePackage: Moving '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/IdleAnimation71FDDD1541885E7A740BEE94A2708F65.tmp' to '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/IdleAnimation.uasset'
+[2017.01.31-18.19.05:532][990]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/IdleAnimation.uasset
+[2017.01.31-18.19.11:791][242]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.31-18.19.11:805][242]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.01.31-18.19.11:805][242]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.31-18.19.11:805][242]PIE: New page: PIE session: 2DSideScrollerExampleMap (Jan 31, 2017, 8:19:11 AM)
+[2017.01.31-18.19.11:805][242]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2017.01.31-18.19.11:809][242]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003709s)
+[2017.01.31-18.19.11:809][242]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.01.31-18.19.11:809][242]LogPlayLevel: PIE: World Init took: (0.000794s)
+[2017.01.31-18.19.11:810][242]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.004752s)
+[2017.01.31-18.19.11:839][242]LogInit: XAudio2 using 'AMD HDMI Output (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.31-18.19.11:848][242]LogInit: FAudioDevice initialized.
+[2017.01.31-18.19.11:880][242]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.01.31-18.19.11:883][242]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2017.01.31-13.19.11
+[2017.01.31-18.19.11:883][242]LogWorld: Bringing up level for play took: 0.002489
+[2017.01.31-18.19.11:904][242]PIE: Info Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.103
+[2017.01.31-18.19.11:904][242]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.01.31-18.19.42:873][743]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.01.31-18.19.42:976][743]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.01.31-18.24.31:741][554]LogSavePackage: Save=8.68ms
+[2017.01.31-18.24.31:741][554]LogSavePackage: Moving '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/Monkey_Jump9BD255474589807B51A1DF971C5A7F8C.tmp' to '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Jump_Frames/Monkey_Jump.uasset'
+[2017.01.31-18.24.31:745][554]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Jump_Frames/Monkey_Jump.uasset
+[2017.01.31-18.25.06:061][977]LogSavePackage: Save=13.10ms
+[2017.01.31-18.25.06:061][977]LogSavePackage: Moving '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/monkey_jump_1_Sprite70646493425F6017D40C0D894D31CCA3.tmp' to '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Jump_Frames/monkey_jump_1_Sprite.uasset'
+[2017.01.31-18.25.06:065][977]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Jump_Frames/monkey_jump_1_Sprite.uasset
+[2017.01.31-18.25.06:095][977]LogSavePackage: Save=11.78ms
+[2017.01.31-18.25.06:095][977]LogSavePackage: Moving '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/monkey_jump_2_SpriteB7144BFD4B84C500668213B02A29616A.tmp' to '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Jump_Frames/monkey_jump_2_Sprite.uasset'
+[2017.01.31-18.25.06:099][977]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Jump_Frames/monkey_jump_2_Sprite.uasset
+[2017.01.31-18.25.06:129][977]LogSavePackage: Save=11.98ms
+[2017.01.31-18.25.06:129][977]LogSavePackage: Moving '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/monkey_jump_3_Sprite4E28D81D4FD8B4701E12DA9B80088559.tmp' to '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Jump_Frames/monkey_jump_3_Sprite.uasset'
+[2017.01.31-18.25.06:132][977]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Jump_Frames/monkey_jump_3_Sprite.uasset
+[2017.01.31-18.25.06:164][977]LogSavePackage: Save=12.62ms
+[2017.01.31-18.25.06:164][977]LogSavePackage: Moving '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/monkey_jump_4_Sprite2AD155064F8932A807B31990024639BF.tmp' to '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Jump_Frames/monkey_jump_4_Sprite.uasset'
+[2017.01.31-18.25.06:167][977]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Jump_Frames/monkey_jump_4_Sprite.uasset
+[2017.01.31-18.25.06:177][977]LogSavePackage: Save=4.34ms
+[2017.01.31-18.25.06:177][977]LogSavePackage: Moving '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/Monkey_Run469936CE4039CE471CFCD0BF16C66EC1.tmp' to '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Jump_Frames/Monkey_Run.uasset'
+[2017.01.31-18.25.06:180][977]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Jump_Frames/Monkey_Run.uasset
+[2017.01.31-18.25.06:217][977]LogSavePackage: Save=12.04ms
+[2017.01.31-18.25.06:217][977]LogSavePackage: Moving '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/monkey_faceforward_SpriteB251514E40A327D34AF19CB590A513D5.tmp' to '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/MonkeyAnimations/monkey_faceforward_Sprite.uasset'
+[2017.01.31-18.25.06:220][977]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/MonkeyAnimations/monkey_faceforward_Sprite.uasset
+[2017.01.31-18.26.42:472][556]LogSavePackage: Save=28.90ms
+[2017.01.31-18.26.42:472][556]LogSavePackage: Moving '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/Monkey_JumpCDCE4C0B43D35E36C1285FA29657088C.tmp' to '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Jump_Frames/Monkey_Jump.uasset'
+[2017.01.31-18.26.42:476][556]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Jump_Frames/Monkey_Jump.uasset
+[2017.01.31-18.26.42:516][556]LogSavePackage: Save=12.02ms
+[2017.01.31-18.26.42:516][556]LogSavePackage: Moving '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/monkey_jump_swing_2_Sprite2EAC954B4F319A2F0E371C9726D262BB.tmp' to '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Jump_Frames/monkey_jump_swing_2_Sprite.uasset'
+[2017.01.31-18.26.42:519][556]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Jump_Frames/monkey_jump_swing_2_Sprite.uasset
+[2017.01.31-18.26.42:556][556]LogSavePackage: Save=12.53ms
+[2017.01.31-18.26.42:556][556]LogSavePackage: Moving '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/monkey_jump_swing_3_Sprite81698C7E400935C28FA586BE39D1E0DF.tmp' to '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Jump_Frames/monkey_jump_swing_3_Sprite.uasset'
+[2017.01.31-18.26.42:559][556]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Jump_Frames/monkey_jump_swing_3_Sprite.uasset
+[2017.01.31-18.26.42:590][556]LogSavePackage: Save=12.48ms
+[2017.01.31-18.26.42:590][556]LogSavePackage: Moving '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/monkey_jump_swing__Sprite4460A9E94F33150A9826A4B7E2E2E556.tmp' to '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Jump_Frames/monkey_jump_swing__Sprite.uasset'
+[2017.01.31-18.26.42:592][556]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Jump_Frames/monkey_jump_swing__Sprite.uasset
+[2017.01.31-18.31.49:563][332]LogSavePackage: Save=14.56ms
+[2017.01.31-18.31.49:563][332]LogSavePackage: Moving '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Saved/Monkey_Jump089DE749408E939A54A793B3E35257ED.tmp' to '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Jump_Frames/Monkey_Jump.uasset'
+[2017.01.31-18.31.49:567][332]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Jump_Frames/Monkey_Jump.uasset
+[2017.01.31-18.33.59:393][780]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.31-18.33.59:408][780]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.01.31-18.33.59:408][780]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.31-18.33.59:408][780]PIE: New page: PIE session: 2DSideScrollerExampleMap (Jan 31, 2017, 8:33:59 AM)
+[2017.01.31-18.33.59:408][780]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2017.01.31-18.33.59:412][780]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003856s)
+[2017.01.31-18.33.59:413][780]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.01.31-18.33.59:413][780]LogPlayLevel: PIE: World Init took: (0.000924s)
+[2017.01.31-18.33.59:413][780]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.005062s)
+[2017.01.31-18.33.59:444][780]LogInit: XAudio2 using 'AMD HDMI Output (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.31-18.33.59:452][780]LogInit: FAudioDevice initialized.
+[2017.01.31-18.33.59:485][780]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.01.31-18.33.59:488][780]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2017.01.31-13.33.59
+[2017.01.31-18.33.59:488][780]LogWorld: Bringing up level for play took: 0.002390
+[2017.01.31-18.33.59:489][780]PIE: Info Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.311
+[2017.01.31-18.33.59:490][780]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.01.31-18.34.35:318][358]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.01.31-18.34.35:414][358]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.01.31-18.35.21:409][711]Cmd: QUIT_EDITOR
+[2017.01.31-18.35.21:990][711]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.01.31-18.35.22:036][711]LogExit: Preparing to exit.
+[2017.01.31-18.35.22:500][711]LogDirectoryWatcher: A directory notification for 'C:/Users/mattlineback/monkeywrench/monkeywrench/Content/' was aborted.
+[2017.01.31-18.35.22:583][711]LogExit: Editor shut down
+[2017.01.31-18.35.22:585][711]LogExit: Transaction tracking system shut down
+[2017.01.31-18.35.22:684][711]LogObj: Freed 0b from 0 cluster array pools.
+[2017.01.31-18.35.22:684][711]LogExit: Object subsystem successfully closed.
+[2017.01.31-18.35.22:701][711]LogD3D11RHI: Shutdown
+[2017.01.31-18.35.22:701][711]LogD3D11RHI: CleanupD3DDevice
+[2017.01.31-18.35.22:789][711]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.01.31-18.35.22:814][711]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.01.31-18.35.22:814][711]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9AA73DCB-407C-BD68-23DF-0B8C5DFCDDBA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.3-3249277%2B%2B%2BUE4%2BRelease-4.14&UserID=063ea8b74d033e1b8770998eb4b43c95%7C7688f66bf330434687681f731b7ab27c%7C21693357-8d08-49fe-8eb2-9dfd6ac3f214&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.01.31-18.35.22:846][711]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (243)
+[2017.01.31-18.35.22:846][711]LogModuleManager: Shutting down and abandoning module TextureEditor (242)
+[2017.01.31-18.35.22:846][711]LogModuleManager: Shutting down and abandoning module WidgetCarousel (241)
+[2017.01.31-18.35.22:846][711]LogModuleManager: Shutting down and abandoning module AddContentDialog (240)
+[2017.01.31-18.35.22:847][711]LogDirectoryWatcher: A directory notification for 'C:/Program Files (x86)/Epic Games/4.14/FeaturePacks/' was aborted.
+[2017.01.31-18.35.22:848][711]LogModuleManager: Shutting down and abandoning module GameplayTags (239)
+[2017.01.31-18.35.22:848][711]LogModuleManager: Shutting down and abandoning module EditorWidgets (238)
+[2017.01.31-18.35.22:848][711]LogModuleManager: Shutting down and abandoning module CollectionManager (237)
+[2017.01.31-18.35.22:848][711]LogDirectoryWatcher: A directory notification for 'C:/Users/mattlineback/monkeywrench/monkeywrench/Content/Collections/' was aborted.
+[2017.01.31-18.35.22:848][711]LogDirectoryWatcher: A directory notification for 'C:/Users/mattlineback/monkeywrench/monkeywrench/Content/Developers/mattlineback/Collections/' was aborted.
+[2017.01.31-18.35.22:848][711]LogDirectoryWatcher: A directory notification for 'C:/Users/mattlineback/monkeywrench/monkeywrench/Saved/Collections/' was aborted.
+[2017.01.31-18.35.22:848][711]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (236)
+[2017.01.31-18.35.22:848][711]LogModuleManager: Shutting down and abandoning module CrashTracker (235)
+[2017.01.31-18.35.22:848][711]LogModuleManager: Shutting down and abandoning module SceneOutliner (234)
+[2017.01.31-18.35.22:848][711]LogModuleManager: Shutting down and abandoning module StatsViewer (233)
+[2017.01.31-18.35.22:848][711]LogModuleManager: Shutting down and abandoning module FoliageEdit (232)
+[2017.01.31-18.35.22:848][711]LogModuleManager: Shutting down and abandoning module LandscapeEditor (231)
+[2017.01.31-18.35.22:848][711]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (230)
+[2017.01.31-18.35.22:848][711]LogModuleManager: Shutting down and abandoning module ActorPickerMode (229)
+[2017.01.31-18.35.22:849][711]LogModuleManager: Shutting down and abandoning module GeometryMode (228)
+[2017.01.31-18.35.22:849][711]LogModuleManager: Shutting down and abandoning module TextureAlignMode (227)
+[2017.01.31-18.35.22:849][711]LogModuleManager: Shutting down and abandoning module BspMode (226)
+[2017.01.31-18.35.22:849][711]LogModuleManager: Shutting down and abandoning module HardwareSurvey (225)
+[2017.01.31-18.35.22:849][711]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (224)
+[2017.01.31-18.35.22:849][711]LogModuleManager: Shutting down and abandoning module AutomationWorker (223)
+[2017.01.31-18.35.22:849][711]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (222)
+[2017.01.31-18.35.22:849][711]LogModuleManager: Shutting down and abandoning module PlacementMode (221)
+[2017.01.31-18.35.22:849][711]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (220)
+[2017.01.31-18.35.22:849][711]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (219)
+[2017.01.31-18.35.22:849][711]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (218)
+[2017.01.31-18.35.22:849][711]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (217)
+[2017.01.31-18.35.22:849][711]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (216)
+[2017.01.31-18.35.22:849][711]LogModuleManager: Shutting down and abandoning module Media (215)
+[2017.01.31-18.35.22:849][711]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (214)
+[2017.01.31-18.35.22:849][711]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (213)
+[2017.01.31-18.35.22:849][711]LogModuleManager: Shutting down and abandoning module CharacterAI (212)
+[2017.01.31-18.35.22:849][711]LogModuleManager: Shutting down and abandoning module SequenceRecorder (211)
+[2017.01.31-18.35.22:849][711]LogModuleManager: Shutting down and abandoning module AudioCapture (210)
+[2017.01.31-18.35.22:849][711]LogModuleManager: Shutting down and abandoning module SmartSnapping (209)
+[2017.01.31-18.35.22:849][711]LogModuleManager: Shutting down and abandoning module SessionServices (208)
+[2017.01.31-18.35.22:849][711]LogModuleManager: Shutting down and abandoning module ViewportSnapping (207)
+[2017.01.31-18.35.22:849][711]LogModuleManager: Shutting down and abandoning module ViewportInteraction (206)
+[2017.01.31-18.35.22:849][711]LogModuleManager: Shutting down and abandoning module LogVisualizer (205)
+[2017.01.31-18.35.22:849][711]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (204)
+[2017.01.31-18.35.22:849][711]LogModuleManager: Shutting down and abandoning module IntroTutorials (203)
+[2017.01.31-18.35.22:849][711]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (202)
+[2017.01.31-18.35.22:849][711]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (201)
+[2017.01.31-18.35.22:849][711]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (200)
+[2017.01.31-18.35.22:849][711]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (199)
+[2017.01.31-18.35.23:409][711]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (198)
+[2017.01.31-18.35.23:409][711]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (197)
+[2017.01.31-18.35.23:409][711]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (196)
+[2017.01.31-18.35.23:409][711]LogModuleManager: Shutting down and abandoning module InputBindingEditor (195)
+[2017.01.31-18.35.23:410][711]LogModuleManager: Shutting down and abandoning module NiagaraEditor (194)
+[2017.01.31-18.35.23:410][711]LogModuleManager: Shutting down and abandoning module MergeActors (193)
+[2017.01.31-18.35.23:410][711]LogModuleManager: Shutting down and abandoning module SizeMap (192)
+[2017.01.31-18.35.23:410][711]LogModuleManager: Shutting down and abandoning module TreeMap (191)
+[2017.01.31-18.35.23:410][711]LogModuleManager: Shutting down and abandoning module ReferenceViewer (190)
+[2017.01.31-18.35.23:410][711]LogModuleManager: Shutting down and abandoning module LocalizationService (189)
+[2017.01.31-18.35.23:410][711]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (188)
+[2017.01.31-18.35.23:410][711]LogModuleManager: Shutting down and abandoning module HardwareTargeting (187)
+[2017.01.31-18.35.23:410][711]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (186)
+[2017.01.31-18.35.23:410][711]LogModuleManager: Shutting down and abandoning module UndoHistory (185)
+[2017.01.31-18.35.23:410][711]LogModuleManager: Shutting down and abandoning module UserFeedback (184)
+[2017.01.31-18.35.23:410][711]LogModuleManager: Shutting down and abandoning module XmlParser (183)
+[2017.01.31-18.35.23:410][711]LogModuleManager: Shutting down and abandoning module Blutility (182)
+[2017.01.31-18.35.23:410][711]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (181)
+[2017.01.31-18.35.23:410][711]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (180)
+[2017.01.31-18.35.23:411][711]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (179)
+[2017.01.31-18.35.23:411][711]LogModuleManager: Shutting down and abandoning module SettingsEditor (178)
+[2017.01.31-18.35.23:411][711]LogModuleManager: Shutting down and abandoning module ProjectLauncher (177)
+[2017.01.31-18.35.23:411][711]LogModuleManager: Shutting down and abandoning module SessionFrontend (176)
+[2017.01.31-18.35.23:411][711]LogModuleManager: Shutting down and abandoning module ProfilerClient (175)
+[2017.01.31-18.35.23:411][711]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (174)
+[2017.01.31-18.35.23:411][711]LogModuleManager: Shutting down and abandoning module DeviceManager (173)
+[2017.01.31-18.35.23:454][711]LogModuleManager: Shutting down and abandoning module AutomationController (172)
+[2017.01.31-18.35.23:454][711]LogModuleManager: Shutting down and abandoning module AutomationWindow (171)
+[2017.01.31-18.35.23:454][711]LogModuleManager: Shutting down and abandoning module Layers (170)
+[2017.01.31-18.35.23:454][711]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (169)
+[2017.01.31-18.35.23:454][711]LogModuleManager: Shutting down and abandoning module DetailCustomizations (168)
+[2017.01.31-18.35.23:454][711]LogModuleManager: Shutting down and abandoning module PackagesDialog (167)
+[2017.01.31-18.35.23:454][711]LogModuleManager: Shutting down and abandoning module AnimGraph (166)
+[2017.01.31-18.35.23:454][711]LogModuleManager: Shutting down and abandoning module Persona (165)
+[2017.01.31-18.35.23:454][711]LogModuleManager: Shutting down and abandoning module Kismet (164)
+[2017.01.31-18.35.23:455][711]LogModuleManager: Shutting down and abandoning module GraphEditor (163)
+[2017.01.31-18.35.23:455][711]LogModuleManager: Shutting down and abandoning module ClassViewer (162)
+[2017.01.31-18.35.23:458][711]LogModuleManager: Shutting down and abandoning module Toolbox (161)
+[2017.01.31-18.35.23:458][711]LogModuleManager: Shutting down and abandoning module ModuleUI (160)
+[2017.01.31-18.35.23:458][711]LogModuleManager: Shutting down and abandoning module MovieSceneTools (159)
+[2017.01.31-18.35.23:458][711]LogModuleManager: Shutting down and abandoning module OutputLog (158)
+[2017.01.31-18.35.23:458][711]LogModuleManager: Shutting down and abandoning module GammaUI (157)
+[2017.01.31-18.35.23:458][711]LogModuleManager: Shutting down and abandoning module Documentation (156)
+[2017.01.31-18.35.23:458][711]LogModuleManager: Shutting down and abandoning module Niagara (155)
+[2017.01.31-18.35.23:458][711]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (154)
+[2017.01.31-18.35.23:458][711]LogModuleManager: Shutting down and abandoning module AnalyticsET (153)
+[2017.01.31-18.35.23:458][711]LogModuleManager: Shutting down and abandoning module PortalServices (152)
+[2017.01.31-18.35.23:458][711]LogModuleManager: Shutting down and abandoning module PortalRpc (151)
+[2017.01.31-18.35.23:458][711]LogModuleManager: Shutting down and abandoning module MessagingRpc (150)
+[2017.01.31-18.35.23:458][711]LogModuleManager: Shutting down and abandoning module GameplayDebugger (149)
+[2017.01.31-18.35.23:458][711]LogModuleManager: Shutting down and abandoning module AITestSuite (148)
+[2017.01.31-18.35.23:458][711]LogModuleManager: Shutting down and abandoning module AIModule (147)
+[2017.01.31-18.35.23:458][711]LogModuleManager: Shutting down and abandoning module ProfilerService (146)
+[2017.01.31-18.35.23:481][711]LogModuleManager: Shutting down and abandoning module TaskGraph (145)
+[2017.01.31-18.35.23:481][711]LogModuleManager: Shutting down and abandoning module SlateRemote (144)
+[2017.01.31-18.35.23:481][711]LogModuleManager: Shutting down and abandoning module SteamVRController (143)
+[2017.01.31-18.35.23:481][711]LogModuleManager: Shutting down and abandoning module SteamVR (142)
+[2017.01.31-18.35.23:481][711]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (141)
+[2017.01.31-18.35.23:481][711]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (140)
+[2017.01.31-18.35.23:481][711]LogModuleManager: Shutting down and abandoning module OculusLibrary (139)
+[2017.01.31-18.35.23:481][711]LogModuleManager: Shutting down and abandoning module OculusInput (138)
+[2017.01.31-18.35.23:481][711]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (137)
+[2017.01.31-18.35.23:481][711]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (136)
+[2017.01.31-18.35.23:481][711]LogModuleManager: Shutting down and abandoning module CableComponent (135)
+[2017.01.31-18.35.23:481][711]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (134)
+[2017.01.31-18.35.23:481][711]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (132)
+[2017.01.31-18.35.23:481][711]LogModuleManager: Shutting down and abandoning module HTML5Networking (131)
+[2017.01.31-18.35.23:481][711]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (130)
+[2017.01.31-18.35.23:481][711]LogModuleManager: Shutting down and abandoning module GeometryCache (129)
+[2017.01.31-18.35.23:481][711]LogModuleManager: Shutting down and abandoning module AlembicLibrary (128)
+[2017.01.31-18.35.23:481][711]LogModuleManager: Shutting down and abandoning module AlembicImporter (127)
+[2017.01.31-18.35.23:481][711]LogModuleManager: Shutting down and abandoning module SuperSearch (126)
+[2017.01.31-18.35.23:481][711]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (125)
+[2017.01.31-18.35.23:481][711]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (124)
+[2017.01.31-18.35.23:481][711]LogModuleManager: Shutting down and abandoning module PluginBrowser (123)
+[2017.01.31-18.35.23:481][711]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (122)
+[2017.01.31-18.35.23:481][711]LogModuleManager: Shutting down and abandoning module EpicSurvey (121)
+[2017.01.31-18.35.23:481][711]LogModuleManager: Shutting down and abandoning module DesktopPlatform (120)
+[2017.01.31-18.35.23:481][711]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (119)
+[2017.01.31-18.35.23:481][711]LogModuleManager: Shutting down and abandoning module UObjectPlugin (118)
+[2017.01.31-18.35.23:482][711]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (117)
+[2017.01.31-18.35.23:482][711]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (116)
+[2017.01.31-18.35.23:482][711]LogModuleManager: Shutting down and abandoning module SourceControl (115)
+[2017.01.31-18.35.23:482][711]LogModuleManager: Shutting down and abandoning module GitSourceControl (114)
+[2017.01.31-18.35.23:482][711]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (113)
+[2017.01.31-18.35.23:482][711]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (112)
+[2017.01.31-18.35.23:482][711]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (111)
+[2017.01.31-18.35.23:482][711]LogModuleManager: Shutting down and abandoning module MeshPaint (110)
+[2017.01.31-18.35.23:482][711]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (109)
+[2017.01.31-18.35.23:482][711]LogModuleManager: Shutting down and abandoning module HotReload (108)
+[2017.01.31-18.35.23:483][711]LogModuleManager: Shutting down and abandoning module MainFrame (107)
+[2017.01.31-18.35.23:483][711]LogModuleManager: Shutting down and abandoning module LevelEditor (106)
+[2017.01.31-18.35.23:485][711]LogModuleManager: Shutting down and abandoning module ContentBrowser (105)
+[2017.01.31-18.35.23:487][711]LogModuleManager: Shutting down and abandoning module Paper2DEditor (104)
+[2017.01.31-18.35.23:487][711]LogModuleManager: Shutting down and abandoning module UdpMessaging (103)
+[2017.01.31-18.35.23:588][711]LogModuleManager: Shutting down and abandoning module TcpMessaging (102)
+[2017.01.31-18.35.23:689][711]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (101)
+[2017.01.31-18.35.23:689][711]LogModuleManager: Shutting down and abandoning module Paper2D (100)
+[2017.01.31-18.35.23:689][711]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (99)
+[2017.01.31-18.35.23:689][711]LogModuleManager: Shutting down and abandoning module WmfMedia (98)
+[2017.01.31-18.35.23:689][711]LogModuleManager: Shutting down and abandoning module MediaAssets (97)
+[2017.01.31-18.35.23:689][711]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (96)
+[2017.01.31-18.35.23:689][711]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (95)
+[2017.01.31-18.35.23:689][711]LogModuleManager: Shutting down and abandoning module VREditor (94)
+[2017.01.31-18.35.23:689][711]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (93)
+[2017.01.31-18.35.23:689][711]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (92)
+[2017.01.31-18.35.23:689][711]LogModuleManager: Shutting down and abandoning module FunctionalTesting (91)
+[2017.01.31-18.35.23:689][711]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (90)
+[2017.01.31-18.35.23:689][711]LogModuleManager: Shutting down and abandoning module Sequencer (89)
+[2017.01.31-18.35.23:689][711]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (88)
+[2017.01.31-18.35.23:689][711]LogModuleManager: Shutting down and abandoning module MessageLog (87)
+[2017.01.31-18.35.23:689][711]LogModuleManager: Shutting down and abandoning module AssetTools (86)
+[2017.01.31-18.35.23:689][711]LogModuleManager: Shutting down and abandoning module UMGEditor (85)
+[2017.01.31-18.35.23:689][711]LogModuleManager: Shutting down and abandoning module UMG (84)
+[2017.01.31-18.35.23:690][711]LogModuleManager: Shutting down and abandoning module SlateReflector (83)
+[2017.01.31-18.35.23:690][711]LogModuleManager: Shutting down and abandoning module Slate (82)
+[2017.01.31-18.35.23:690][711]LogModuleManager: Shutting down and abandoning module EditorStyle (81)
+[2017.01.31-18.35.23:693][711]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (80)
+[2017.01.31-18.35.23:693][711]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (79)
+[2017.01.31-18.35.23:693][711]LogModuleManager: Shutting down and abandoning module XAudio2 (78)
+[2017.01.31-18.35.23:693][711]LogModuleManager: Shutting down and abandoning module Networking (76)
+[2017.01.31-18.35.23:693][711]LogModuleManager: Shutting down and abandoning module Core (75)
+[2017.01.31-18.35.23:693][711]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (74)
+[2017.01.31-18.35.23:693][711]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.01.31-18.35.23:694][711]LogDirectoryWatcher: A directory notification for '../../../../../../Users/mattlineback/monkeywrench/monkeywrench/Content/' was aborted.
+[2017.01.31-18.35.23:694][711]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.01.31-18.35.23:697][711]LogModuleManager: Shutting down and abandoning module AssetRegistry (73)
+[2017.01.31-18.35.23:869][711]LogModuleManager: Shutting down and abandoning module KismetCompiler (72)
+[2017.01.31-18.35.23:869][711]LogModuleManager: Shutting down and abandoning module PhysXFormats (71)
+[2017.01.31-18.35.23:869][711]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (70)
+[2017.01.31-18.35.23:869][711]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (69)
+[2017.01.31-18.35.23:869][711]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (68)
+[2017.01.31-18.35.23:869][711]LogModuleManager: Shutting down and abandoning module PropertyEditor (67)
+[2017.01.31-18.35.23:869][711]LogModuleManager: Shutting down and abandoning module MeshUtilities (66)
+[2017.01.31-18.35.23:869][711]LogModuleManager: Shutting down and abandoning module DerivedDataCache (65)
+[2017.01.31-18.35.23:952][711]LogDerivedDataCache: Shutdown
+[2017.01.31-18.35.23:952][711]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (64)
+[2017.01.31-18.35.23:952][711]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (63)
+[2017.01.31-18.35.23:952][711]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (62)
+[2017.01.31-18.35.23:952][711]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (61)
+[2017.01.31-18.35.23:952][711]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (60)
+[2017.01.31-18.35.23:952][711]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (59)
+[2017.01.31-18.35.23:952][711]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (58)
+[2017.01.31-18.35.23:952][711]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (57)
+[2017.01.31-18.35.23:952][711]LogModuleManager: Shutting down and abandoning module ImageWrapper (56)
+[2017.01.31-18.35.23:952][711]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (55)
+[2017.01.31-18.35.23:952][711]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (54)
+[2017.01.31-18.35.23:952][711]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (53)
+[2017.01.31-18.35.23:952][711]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (52)
+[2017.01.31-18.35.23:952][711]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (51)
+[2017.01.31-18.35.23:952][711]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (50)
+[2017.01.31-18.35.23:952][711]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (49)
+[2017.01.31-18.35.23:952][711]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (48)
+[2017.01.31-18.35.23:952][711]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (47)
+[2017.01.31-18.35.23:952][711]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (46)
+[2017.01.31-18.35.23:953][711]LogModuleManager: Shutting down and abandoning module Messaging (45)
+[2017.01.31-18.35.23:953][711]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (44)
+[2017.01.31-18.35.23:953][711]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (43)
+[2017.01.31-18.35.23:953][711]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (42)
+[2017.01.31-18.35.23:953][711]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (41)
+[2017.01.31-18.35.23:953][711]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (40)
+[2017.01.31-18.35.23:953][711]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (39)
+[2017.01.31-18.35.23:953][711]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (38)
+[2017.01.31-18.35.23:953][711]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (37)
+[2017.01.31-18.35.23:953][711]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (36)
+[2017.01.31-18.35.23:953][711]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (35)
+[2017.01.31-18.35.23:953][711]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (34)
+[2017.01.31-18.35.23:953][711]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (33)
+[2017.01.31-18.35.23:953][711]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (32)
+[2017.01.31-18.35.23:953][711]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (31)
+[2017.01.31-18.35.23:953][711]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (30)
+[2017.01.31-18.35.23:953][711]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (29)
+[2017.01.31-18.35.23:953][711]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (28)
+[2017.01.31-18.35.23:953][711]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (27)
+[2017.01.31-18.35.23:953][711]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2017.01.31-18.35.23:953][711]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2017.01.31-18.35.23:953][711]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2017.01.31-18.35.23:953][711]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2017.01.31-18.35.23:953][711]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2017.01.31-18.35.23:953][711]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (21)
+[2017.01.31-18.35.23:953][711]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (20)
+[2017.01.31-18.35.23:953][711]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (18)
+[2017.01.31-18.35.23:953][711]LogOnline:Display: Unloading online subsystem: NULL
+[2017.01.31-18.35.23:954][711]LogModuleManager: Shutting down and abandoning module SSL (17)
+[2017.01.31-18.35.23:956][711]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2017.01.31-18.35.23:956][711]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2017.01.31-18.35.23:956][711]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2017.01.31-18.35.23:956][711]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2017.01.31-18.35.23:956][711]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2017.01.31-18.35.23:956][711]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2017.01.31-18.35.23:959][711]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2017.01.31-18.35.23:959][711]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2017.01.31-18.35.23:959][711]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2017.01.31-18.35.23:959][711]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2017.01.31-18.35.23:959][711]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2017.01.31-18.35.23:959][711]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2017.01.31-18.35.23:959][711]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2017.01.31-18.35.23:959][711]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2017.01.31-18.35.23:959][711]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2017.01.31-18.35.23:959][711]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2017.01.31-18.35.23:961][711]LogExit: Exiting.
+[2017.01.31-18.35.23:979][711]Log file closed, 01/31/17 13:35:23
