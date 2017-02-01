@@ -657,3 +657,120 @@ LogInit: Object subsystem initialized
 [2017.02.01-15.52.22:432][352]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
 [2017.02.01-15.52.24:494][409]LogSavePackage: Save=102.22ms
 [2017.02.01-15.52.24:494][409]LogSavePackage: Moving '../../../../../../Users/NH008s/Documents/Unreal Projects/monkeywrench/Saved/2DSideScrollerExampleMap4B6F1BCA465A53CF0753A3B034A514DA.tmp' to '../../../../../../Users/NH008s/Documents/Unreal Projects/monkeywrench/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2017.02.01-15.52.24:495][409]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/NH008s/Documents/Unreal Projects/monkeywrench/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap
+[2017.02.01-15.52.24:549][409]LogSavePackage: Save=26.85ms
+[2017.02.01-15.52.24:549][409]LogSavePackage: Moving '../../../../../../Users/NH008s/Documents/Unreal Projects/monkeywrench/Saved/2DSideScrollerExampleMap_BuiltDataFC3CA05D41369ED02D4947B1C893D8EE.tmp' to '../../../../../../Users/NH008s/Documents/Unreal Projects/monkeywrench/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2017.02.01-15.52.24:549][409]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/NH008s/Documents/Unreal Projects/monkeywrench/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset
+[2017.02.01-16.02.24:998][390]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.017
+[2017.02.01-16.02.25:000][390]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter] ([1] browsable assets)...
+[2017.02.01-16.02.25:000][390]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter]
+[2017.02.01-16.02.25:046][390]LogSavePackage: Save=37.05ms
+[2017.02.01-16.02.25:046][390]LogSavePackage: Moving '../../../../../../Users/NH008s/Documents/Unreal Projects/monkeywrench/Saved/2DSideScrollerCharacter_Auto87E7676B544A88F5480B74184C6739D3B.tmp' to '../../../../../../Users/NH008s/Documents/Unreal Projects/monkeywrench/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter_Auto8.uasset'
+[2017.02.01-16.02.25:047][390]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/NH008s/Documents/Unreal Projects/monkeywrench/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter_Auto8.uasset
+[2017.02.01-16.02.25:047][390]LogFileHelpers: Auto-saving content packages took 0.048
+[2017.02.01-16.11.43:026][424]LogSavePackage: Save=39.55ms
+[2017.02.01-16.11.43:026][424]LogSavePackage: Moving '../../../../../../Users/NH008s/Documents/Unreal Projects/monkeywrench/Saved/2DSideScrollerCharacterD986CA0F451C71EA14971AA8B98D92C3.tmp' to '../../../../../../Users/NH008s/Documents/Unreal Projects/monkeywrench/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2017.02.01-16.11.43:028][424]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/NH008s/Documents/Unreal Projects/monkeywrench/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset
+[2017.02.01-16.12.25:927][607]LogSavePackage: Save=106.86ms
+[2017.02.01-16.12.25:927][607]LogSavePackage: Moving '../../../../../../Users/NH008s/Documents/Unreal Projects/monkeywrench/Saved/2DSideScrollerExampleMap_Auto9CAB1639B4B33B020578149916DC908F4.tmp' to '../../../../../../Users/NH008s/Documents/Unreal Projects/monkeywrench/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto9.umap'
+[2017.02.01-16.12.25:928][607]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/NH008s/Documents/Unreal Projects/monkeywrench/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto9.umap
+[2017.02.01-16.12.25:929][607]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.137
+[2017.02.01-16.12.25:929][607]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.137
+[2017.02.01-16.19.18:872][519]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2017.02.01-16.23.25:040][190]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2017.02.01-16.24.18:990][490]LogSavePackage: Save=110.10ms
+[2017.02.01-16.24.18:990][490]LogSavePackage: Moving '../../../../../../Users/NH008s/Documents/Unreal Projects/monkeywrench/Saved/2DSideScrollerExampleMap_Auto0F7E285F44010A49CC11C51B321A93384.tmp' to '../../../../../../Users/NH008s/Documents/Unreal Projects/monkeywrench/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto0.umap'
+[2017.02.01-16.24.18:991][490]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/NH008s/Documents/Unreal Projects/monkeywrench/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto0.umap
+[2017.02.01-16.24.18:993][490]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.143
+[2017.02.01-16.24.18:993][490]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.143
+[2017.02.01-16.24.18:994][490]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter] ([1] browsable assets)...
+[2017.02.01-16.24.18:995][490]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter]
+[2017.02.01-16.24.19:041][490]LogSavePackage: Save=37.89ms
+[2017.02.01-16.24.19:041][490]LogSavePackage: Moving '../../../../../../Users/NH008s/Documents/Unreal Projects/monkeywrench/Saved/2DSideScrollerCharacter_Auto037F85F7F4B496B1AD4D1B485C58104E5.tmp' to '../../../../../../Users/NH008s/Documents/Unreal Projects/monkeywrench/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter_Auto0.uasset'
+[2017.02.01-16.24.19:041][490]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/NH008s/Documents/Unreal Projects/monkeywrench/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter_Auto0.uasset
+[2017.02.01-16.24.19:042][490]LogFileHelpers: Auto-saving content packages took 0.048
+[2017.02.01-16.26.08:471][875]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2017.02.01-16.27.37:290][913]LogEditorTransaction: Undo Add Node
+[2017.02.01-16.27.38:466][954]LogEditorTransaction: Undo Delete current selection
+[2017.02.01-16.27.59:108][704]LogEditorTransaction: Undo Create Pin Link
+[2017.02.01-16.28.01:439][788]LogEditorTransaction: Undo Create Pin Link
+[2017.02.01-16.28.02:853][839]LogEditorTransaction: Undo Move Node
+[2017.02.01-16.28.27:149][727]LogSavePackage: Save=42.04ms
+[2017.02.01-16.28.27:149][727]LogSavePackage: Moving '../../../../../../Users/NH008s/Documents/Unreal Projects/monkeywrench/Saved/2DSideScrollerCharacter65FFABCC47985547FA930490D40BF8EE.tmp' to '../../../../../../Users/NH008s/Documents/Unreal Projects/monkeywrench/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2017.02.01-16.28.27:151][727]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/NH008s/Documents/Unreal Projects/monkeywrench/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset
+[2017.02.01-16.29.53:640][896]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2017.02.01-16.29.58:205][ 55]LogTemp: Repeting last play command: Selected Viewport
+[2017.02.01-16.29.58:219][ 55]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.02.01-16.29.58:219][ 55]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.01-16.29.58:220][ 55]PIE: New page: PIE session: 2DSideScrollerExampleMap (Feb 1, 2017, 6:29:58 AM)
+[2017.02.01-16.29.58:220][ 55]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2017.02.01-16.29.58:225][ 55]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005230s)
+[2017.02.01-16.29.58:226][ 55]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.02.01-16.29.58:226][ 55]LogPlayLevel: PIE: World Init took: (0.000894s)
+[2017.02.01-16.29.58:227][ 55]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.006490s)
+[2017.02.01-16.29.58:282][ 55]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.02.01-16.29.58:285][ 55]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2017.02.01-11.29.58
+[2017.02.01-16.29.58:285][ 55]LogWorld: Bringing up level for play took: 0.001685
+[2017.02.01-16.29.58:286][ 55]PIE: Info Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.929
+[2017.02.01-16.29.58:287][ 55]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.02.01-16.30.19:076][ 60]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.02.01-16.30.19:186][ 60]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.02.01-16.31.44:535][425]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2017.02.01-16.31.44:592][425]LogBlueprint:Error: [Compiler 2DSideScrollerCharacter] Error This blueprint (self) is not a PaperFlipbookComponent, therefore ' self ' must have a connection.
+[2017.02.01-16.31.44:763][425]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a PaperFlipbookComponent, therefore ' self ' must have a connection.
+[2017.02.01-16.31.44:793][425]LogBlueprint:Warning: [Compiler 2DSideScrollerCharacter] Warning [9260.66] Compile of 2DSideScrollerCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 227 ms] (/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter)
+[2017.02.01-16.32.28:778][289]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2017.02.01-16.32.28:811][289]LogBlueprint:Error: [Compiler 2DSideScrollerCharacter] Error This blueprint (self) is not a PaperFlipbookComponent, therefore ' self ' must have a connection.
+[2017.02.01-16.32.28:986][289]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a PaperFlipbookComponent, therefore ' self ' must have a connection.
+[2017.02.01-16.32.28:986][289]LogBlueprint:Warning: [Compiler 2DSideScrollerCharacter] Warning [9304.88] Compile of 2DSideScrollerCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 207 ms] (/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter)
+[2017.02.01-16.34.16:050][555]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2017.02.01-16.34.16:084][555]LogBlueprint:Error: [Compiler 2DSideScrollerCharacter] Error This blueprint (self) is not a PaperFlipbookComponent, therefore ' self ' must have a connection.
+[2017.02.01-16.34.16:268][555]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a PaperFlipbookComponent, therefore ' self ' must have a connection.
+[2017.02.01-16.34.16:268][555]LogBlueprint:Warning: [Compiler 2DSideScrollerCharacter] Warning [9412.17] Compile of 2DSideScrollerCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 218 ms] (/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter)
+[2017.02.01-16.35.01:743][743]LogSavePackage: Save=99.12ms
+[2017.02.01-16.35.01:743][743]LogSavePackage: Moving '../../../../../../Users/NH008s/Documents/Unreal Projects/monkeywrench/Saved/2DSideScrollerExampleMap_Auto1A0BE66214E347121335CCEB9A1FB497C.tmp' to '../../../../../../Users/NH008s/Documents/Unreal Projects/monkeywrench/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto1.umap'
+[2017.02.01-16.35.01:744][743]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/NH008s/Documents/Unreal Projects/monkeywrench/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto1.umap
+[2017.02.01-16.35.01:745][743]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.129
+[2017.02.01-16.35.01:745][743]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.129
+[2017.02.01-16.35.01:747][743]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter] ([1] browsable assets)...
+[2017.02.01-16.35.01:747][743]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter]
+[2017.02.01-16.35.01:791][743]LogSavePackage: Save=35.62ms
+[2017.02.01-16.35.01:791][743]LogSavePackage: Moving '../../../../../../Users/NH008s/Documents/Unreal Projects/monkeywrench/Saved/2DSideScrollerCharacter_Auto1388BBC054F5911E70592C8B167ADC789.tmp' to '../../../../../../Users/NH008s/Documents/Unreal Projects/monkeywrench/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter_Auto1.uasset'
+[2017.02.01-16.35.01:792][743]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/NH008s/Documents/Unreal Projects/monkeywrench/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter_Auto1.uasset
+[2017.02.01-16.35.01:792][743]LogFileHelpers: Auto-saving content packages took 0.046
+[2017.02.01-16.39.10:826][143]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2017.02.01-16.39.10:859][143]LogBlueprint:Error: [Compiler 2DSideScrollerCharacter] Error This blueprint (self) is not a PaperFlipbookComponent, therefore ' self ' must have a connection.
+[2017.02.01-16.39.11:038][143]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a PaperFlipbookComponent, therefore ' self ' must have a connection.
+[2017.02.01-16.39.11:039][143]LogBlueprint:Warning: [Compiler 2DSideScrollerCharacter] Warning [9706.94] Compile of 2DSideScrollerCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 212 ms] (/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter)
+[2017.02.01-16.39.37:491][838]LogTemp: Repeting last play command: Selected Viewport
+[2017.02.01-16.39.37:505][838]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.02.01-16.39.37:505][838]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.01-16.40.13:951][673]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2017.02.01-16.40.16:031][725]LogTemp: Repeting last play command: Selected Viewport
+[2017.02.01-16.40.16:045][725]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.02.01-16.40.16:046][725]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.01-16.40.16:046][725]PIE: New page: PIE session: 2DSideScrollerExampleMap (Feb 1, 2017, 6:40:16 AM)
+[2017.02.01-16.40.16:046][725]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2017.02.01-16.40.16:052][725]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005939s)
+[2017.02.01-16.40.16:053][725]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.02.01-16.40.16:053][725]LogPlayLevel: PIE: World Init took: (0.001027s)
+[2017.02.01-16.40.16:053][725]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.007217s)
+[2017.02.01-16.40.16:107][725]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.02.01-16.40.16:111][725]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2017.02.01-11.40.16
+[2017.02.01-16.40.16:111][725]LogWorld: Bringing up level for play took: 0.002739
+[2017.02.01-16.40.16:112][725]PIE: Info Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.753
+[2017.02.01-16.40.16:113][725]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.02.01-16.41.23:053][436]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.02.01-16.41.23:163][436]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.02.01-16.41.37:851][810]LogSavePackage: Save=44.62ms
+[2017.02.01-16.41.37:851][810]LogSavePackage: Moving '../../../../../../Users/NH008s/Documents/Unreal Projects/monkeywrench/Saved/2DSideScrollerCharacter7147F9544F2633F188B80DA33DC04750.tmp' to '../../../../../../Users/NH008s/Documents/Unreal Projects/monkeywrench/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2017.02.01-16.41.37:852][810]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/NH008s/Documents/Unreal Projects/monkeywrench/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset
+[2017.02.01-16.42.40:766][464]LogSavePackage: Save=38.11ms
+[2017.02.01-16.42.40:766][464]LogSavePackage: Moving '../../../../../../Users/NH008s/Documents/Unreal Projects/monkeywrench/Saved/2DSideScrollerCharacterB38B61CC4768763490A15C81B26AF6E6.tmp' to '../../../../../../Users/NH008s/Documents/Unreal Projects/monkeywrench/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2017.02.01-16.42.40:768][464]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/NH008s/Documents/Unreal Projects/monkeywrench/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset
+[2017.02.01-16.42.50:395][668]LogSavePackage: Save=38.67ms
+[2017.02.01-16.42.50:395][668]LogSavePackage: Moving '../../../../../../Users/NH008s/Documents/Unreal Projects/monkeywrench/Saved/2DSideScrollerCharacter4907CFF04C2C73A5708B088B693F3B5C.tmp' to '../../../../../../Users/NH008s/Documents/Unreal Projects/monkeywrench/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2017.02.01-16.42.50:396][668]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/NH008s/Documents/Unreal Projects/monkeywrench/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset
+[2017.02.01-16.42.53:957][766]LogSavePackage: Save=98.40ms
+[2017.02.01-16.42.53:957][766]LogSavePackage: Moving '../../../../../../Users/NH008s/Documents/Unreal Projects/monkeywrench/Saved/2DSideScrollerExampleMap40B661C442AF2D8B2C35C7A108BA7EA6.tmp' to '../../../../../../Users/NH008s/Documents/Unreal Projects/monkeywrench/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2017.02.01-16.42.53:958][766]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/NH008s/Documents/Unreal Projects/monkeywrench/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap
