@@ -1,0 +1,652 @@
+﻿Log file open, 02/15/17 21:24:37
+LogInit:Display: Running engine for game: MonkeyWrench
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(1729781241) SRandInit(1729781241).
+LogTaskGraph: Started task graph with 5 named threads and 6 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 3.517843
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.14-CL-3249277
+LogInit: Engine Version: 4.14.3-3249277+++UE4+Release-4.14
+LogInit: Compatible Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Net CL: 3195953
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 7
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 8
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 17
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 1
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Jan  6 2017 10:49:43
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.14
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.14/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.02.16-02.24.38:862][  0]LogInit: Selected Device Profile: [Windows]
+[2017.02.16-02.24.38:862][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.02.16-02.24.38:966][  0]LogInit: Computer: MATTLINEBACK-PC
+[2017.02.16-02.24.38:966][  0]LogInit: User: mattlineback
+[2017.02.16-02.24.38:966][  0]LogInit: CPU Page size=65536, Cores=2
+[2017.02.16-02.24.38:966][  0]LogInit: High frequency timer resolution =3.020495 MHz
+[2017.02.16-02.24.38:966][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2017.02.16-02.24.38:966][  0]LogMemory: Platform Memory Stats for Windows
+[2017.02.16-02.24.38:966][  0]LogMemory: Process Physical Memory: 263.86 MB used, 263.86 MB peak
+[2017.02.16-02.24.38:966][  0]LogMemory: Process Virtual Memory: 262.58 MB used, 262.58 MB peak
+[2017.02.16-02.24.38:966][  0]LogMemory: Physical Memory: 2536.98 MB used,  5637.66 MB free, 8174.64 MB total
+[2017.02.16-02.24.38:966][  0]LogMemory: Virtual Memory: 674.55 MB used,  5637.66 MB free, 134217728.00 MB total
+[2017.02.16-02.24.40:208][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2017.02.16-02.24.48:388][  0]LogD3D11RHI: D3D11 adapters:
+[2017.02.16-02.24.48:412][  0]LogD3D11RHI:    0. 'AMD Radeon HD 6450' (Feature Level 11_0)
+[2017.02.16-02.24.48:412][  0]LogD3D11RHI:       1008/0/3840 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2017.02.16-02.24.48:415][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.02.16-02.24.48:415][  0]LogD3D11RHI:       0/0/4087 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.02.16-02.24.48:415][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.02.16-02.24.48:423][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.02.16-02.24.48:423][  0]LogD3D11RHI:     GPU DeviceId: 0x6779 (for the marketing name, search the web for "GPU Device Id")
+[2017.02.16-02.24.48:423][  0]LogWindows: EnumDisplayDevices:
+[2017.02.16-02.24.48:423][  0]LogWindows:    0. 'AMD Radeon HD 6450' (P:1 D:1)
+[2017.02.16-02.24.48:423][  0]LogWindows:    1. 'AMD Radeon HD 6450' (P:0 D:0)
+[2017.02.16-02.24.48:424][  0]LogWindows:    2. 'AMD Radeon HD 6450' (P:0 D:0)
+[2017.02.16-02.24.48:425][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2017.02.16-02.24.48:425][  0]LogD3D11RHI:     Adapter Name: AMD Radeon HD 6450
+[2017.02.16-02.24.48:425][  0]LogD3D11RHI:   Driver Version: Crimson 16.2.1 (internal:15.301.1901.0, unified:15.301.1901.0)
+[2017.02.16-02.24.48:425][  0]LogD3D11RHI:      Driver Date: 2-26-2016
+[2017.02.16-02.24.48:425][  0]LogRHI: Texture pool is 706 MB (70% of 1008 MB)
+[2017.02.16-02.24.48:436][  0]LogD3D11RHI: Async texture creation enabled
+[2017.02.16-02.24.48:768][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2017.02.16-02.24.48:844][  0]LogShaderCompilers: Guid format shader working directory is 0 characters bigger than the processId version (../../../../../../Users/mattlineback/git/monkeywrench/Intermediate/Shaders/WorkingDirectory/4560/).
+[2017.02.16-02.24.48:845][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/mattlineback/AppData/Local/Temp/UnrealShaderWorkingDir/06555FC84AB54821B722C5A31F9E66D8/'.
+[2017.02.16-02.24.48:862][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.02.16-02.24.58:732][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.02.16-02.25.00:717][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.02.16-02.25.02:401][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.02.16-02.25.03:865][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.02.16-02.25.05:629][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.02.16-02.25.07:083][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.02.16-02.25.08:457][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.02.16-02.25.09:628][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.02.16-02.25.10:671][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.02.16-02.25.11:343][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.02.16-02.25.11:954][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.02.16-02.25.12:458][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.02.16-02.25.13:012][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.02.16-02.25.13:352][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.02.16-02.25.13:631][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.02.16-02.25.14:196][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.02.16-02.25.14:196][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.02.16-02.25.14:477][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.02.16-02.25.15:035][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.02.16-02.25.15:112][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.02.16-02.25.15:322][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.02.16-02.25.15:485][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.02.16-02.25.15:624][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.02.16-02.25.15:952][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.02.16-02.25.15:952][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.02.16-02.25.17:951][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.02.16-02.25.18:431][  0]LogDerivedDataCache: Loaded boot cache 0.48s 50MB C:/Users/mattlineback/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.02.16-02.25.18:431][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/mattlineback/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2017.02.16-02.25.18:432][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/mattlineback/git/monkeywrench/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.02.16-02.25.18:432][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.02.16-02.25.18:432][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/mattlineback/git/monkeywrench/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.02.16-02.25.18:432][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.02.16-02.25.18:509][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.02.16-02.25.18:542][  0]LogDerivedDataCache: Using Local data cache path C:/Users/mattlineback/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.02.16-02.25.28:696][  0]LogInit: Selected Device Profile: [Windows]
+[2017.02.16-02.25.28:819][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.02.16-02.25.30:111][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.02.16-02.25.30:420][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.02.16-02.25.30:606][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.02.16-02.25.30:606][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.02.16-02.25.30:606][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.02.16-02.25.35:964][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: monkeywrench, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 690626690
+[2017.02.16-02.25.36:131][  0]LogAssetRegistry: FAssetRegistry took 0.0247 seconds to start up
+[2017.02.16-02.25.36:263][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.098979 seconds
+[2017.02.16-02.25.36:303][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2017.02.16-02.25.36:303][  0]LogUObjectAllocator: 6935840 out of 0 bytes used by permanent object pool.
+[2017.02.16-02.25.36:303][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.02.16-02.25.36:399][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.02.16-02.25.42:422][  0]LogSlate: Using Freetype 2.6.0
+[2017.02.16-02.25.42:599][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.02.16-02.25.42:599][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.02.16-02.26.27:759][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.02.16-02.26.27:813][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.02.16-02.26.29:256][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.02.16-02.26.30:028][  0]SourceControl: Info Source control is disabled
+[2017.02.16-02.26.30:091][  0]SourceControl: Info Source control is disabled
+[2017.02.16-02.26.30:187][  0]SourceControl: Info Source control is disabled
+[2017.02.16-02.26.30:277][  0]SourceControl: Info Source control is disabled
+[2017.02.16-02.26.35:145][  0]LogEngine: Initializing Engine...
+[2017.02.16-02.26.35:211][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.02.16-02.26.36:387][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.02.16-02.26.36:815][  0]LogInit: XAudio2 using 'AMD HDMI Output (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.02.16-02.26.36:860][  0]LogInit: FAudioDevice initialized.
+[2017.02.16-02.26.36:896][  0]LogDerivedDataCache: Saved boot cache 0.04s 50MB C:/Users/mattlineback/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.02.16-02.26.36:907][  0]LogInit: Texture streaming: Enabled
+[2017.02.16-02.26.38:581][  0]LogInit: Transaction tracking system initialized
+[2017.02.16-02.26.42:743][  0]BlueprintLog: New page: Editor Load
+[2017.02.16-02.26.51:043][  0]LocalizationService: Info Localization service is disabled
+[2017.02.16-02.26.57:354][  0]LogConsoleResponse:Display: 
+[2017.02.16-02.27.00:547][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.02.16-02.27.00:547][  0]LogCook:Display: Mobile HDR setting 1
+[2017.02.16-02.27.01:649][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mattlineback/git/monkeywrench/Content/' took 0.02s
+[2017.02.16-02.27.09:861][  0]SourceControl: Info Source control is disabled
+[2017.02.16-02.27.09:861][  0]Cmd: MAP LOAD FILE="../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.02.16-02.27.09:896][  0]LightingResults: New page: Lighting Build
+[2017.02.16-02.27.10:004][  0]MapCheck: New page: Map Check
+[2017.02.16-02.27.10:004][  0]LightingResults: New page: Lighting Build
+[2017.02.16-02.27.12:273][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.02.16-02.27.13:005][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.02.16-02.27.13:006][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.02.16-02.27.13:094][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 88.401ms to complete.
+[2017.02.16-02.27.13:094][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 3.233
+[2017.02.16-02.27.16:678][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.02.16-02.27.16:955][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.02.16-02.27.17:158][  0]LogLoad: (Engine Initialization) Total time: 176.69 seconds
+[2017.02.16-02.27.17:158][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.43 seconds
+[2017.02.16-02.27.17:158][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.02.16-02.27.17:158][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.02.16-02.27.17:498][  0]LogOcInput: OculusInput pre-init called
+[2017.02.16-02.27.17:739][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.02.16-02.27.19:165][  0]LogRenderer: Reallocating scene render targets to support 1208x1012 NumSamples 1 (Frame:2).
+[2017.02.16-02.27.19:431][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/mattlineback/git/monkeywrench/Content/' took 1.92s
+[2017.02.16-02.27.19:444][  1]LogAssetRegistry: Asset discovery search completed in 103.3363 seconds
+[2017.02.16-02.27.19:588][  1]LogCollectionManager: Loaded 0 collections in 0.003387 seconds
+[2017.02.16-02.27.19:634][  1]LogFileCache: Scanning file cache for directory 'C:/Users/mattlineback/git/monkeywrench/Saved/Collections/' took 0.01s
+[2017.02.16-02.27.19:634][  1]LogFileCache: Scanning file cache for directory 'C:/Users/mattlineback/git/monkeywrench/Content/Developers/mattlineback/Collections/' took 0.01s
+[2017.02.16-02.27.19:634][  1]LogFileCache: Scanning file cache for directory 'C:/Users/mattlineback/git/monkeywrench/Content/Collections/' took 0.01s
+[2017.02.16-02.27.19:634][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000007 seconds (found 0 objects)
+[2017.02.16-02.27.19:634][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000133 seconds (updated 0 objects)
+[2017.02.16-02.28.28:261][700]SourceControl: Info On branch master
+[2017.02.16-02.28.28:261][700]SourceControl: Info Your branch is up-to-date with 'origin/master'.
+[2017.02.16-02.28.28:261][700]SourceControl: Info Changes not staged for commit:
+[2017.02.16-02.28.28:261][700]SourceControl: Info   (use "git add/rm <file>..." to update what will be committed)
+[2017.02.16-02.28.28:261][700]SourceControl: Info   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.02.16-02.28.28:261][700]SourceControl: Info 	modified:   Intermediate/CachedAssetRegistry.bin
+[2017.02.16-02.28.28:261][700]SourceControl: Info 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2017.02.16-02.28.28:261][700]SourceControl: Info 	modified:   Saved/Config/Windows/Engine.ini
+[2017.02.16-02.28.28:261][700]SourceControl: Info 	deleted:    Saved/Logs/MonkeyWrench-backup-2017.02.06-11.05.55.log
+[2017.02.16-02.28.28:261][700]SourceControl: Info 	modified:   Saved/Logs/MonkeyWrench.log
+[2017.02.16-02.28.28:261][700]SourceControl: Info Untracked files:
+[2017.02.16-02.28.28:261][700]SourceControl: Info   (use "git add <file>..." to include in what will be committed)
+[2017.02.16-02.28.28:261][700]SourceControl: Info 	Saved/Logs/MonkeyWrench-backup-2017.02.15-21.24.37.log
+[2017.02.16-02.28.28:261][700]SourceControl: Info 	Saved/Logs/UE4CC-Windows-E997B65648B495DA798F00B31DB41E7C/
+[2017.02.16-02.28.28:261][700]SourceControl: Info no changes added to commit (use "git add" and/or "git commit -a")
+[2017.02.16-02.29.35:607][471]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Winter_lab_machinery_S5E5_Sprite)
+[2017.02.16-02.29.36:162][475]LogEditorViewport: Clicking on Component (LMB): PaperSpriteComponent (RenderComponent)
+[2017.02.16-02.29.37:081][486]LogEditorViewport: Clicking on Component (LMB): PaperSpriteComponent (RenderComponent)
+[2017.02.16-02.29.37:641][490]LogEditorViewport: Clicking on Actor (double click): PaperSpriteActor (Winter_lab_machinery_S5E5_Sprite)
+[2017.02.16-02.29.38:241][498]LogEditorViewport: Clicking Background
+[2017.02.16-02.32.31:032][234]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Winter_lab_machinery_S5E5_Sprite)
+[2017.02.16-02.32.32:537][245]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Winter_lab_machinery_S5E5_Sprite)
+[2017.02.16-02.32.33:856][258]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Winter_lab_machinery_S5E5_Sprite)
+[2017.02.16-02.32.34:078][258]LogEditorViewport: Clicking on Component (LMB): PaperSpriteComponent (RenderComponent)
+[2017.02.16-02.32.34:717][267]LogEditorViewport: Clicking on Component (context menu): PaperSpriteComponent (RenderComponent)
+[2017.02.16-02.32.35:908][305]LogEditorViewport: Clicking on Component (LMB): PaperSpriteComponent (RenderComponent)
+[2017.02.16-02.32.42:134][359]LogEditorViewport: Clicking on Component (LMB): PaperSpriteComponent (RenderComponent)
+[2017.02.16-02.32.43:885][374]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.02.16-02.33.01:780][735]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.02.16-02.33.01:791][735]LogContentBrowser: Native class hierarchy populated in 0.0110 seconds. Added 2192 classes and 432 folders.
+[2017.02.16-02.33.01:844][735]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.02.16-02.33.01:844][735]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.02.16-02.33.01:845][735]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0006 seconds. Added 13 classes and 0 folders.
+[2017.02.16-02.33.01:925][735]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2017.02.16-02.33.03:885][735]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2017.02.16-02.38.35:210][152]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.025
+[2017.02.16-02.38.35:211][152]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/Dead_Monkey] ([1] browsable assets)...
+[2017.02.16-02.38.35:223][152]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/2DSideScroller/Sprites/Dead_Monkey.Dead_Monkey]
+[2017.02.16-02.38.35:223][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/Dead_Monkey]
+[2017.02.16-02.38.35:238][152]LogSavePackage: Save=12.04ms
+[2017.02.16-02.38.35:238][152]LogSavePackage: Moving '../../../../../../Users/mattlineback/git/monkeywrench/Saved/Dead_Monkey_Auto164F893CA479AE8673573D4BD7C93F0A2.tmp' to '../../../../../../Users/mattlineback/git/monkeywrench/Saved/Autosaves/Game/2DSideScroller/Sprites/Dead_Monkey_Auto1.uasset'
+[2017.02.16-02.38.35:240][152]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/git/monkeywrench/Saved/Autosaves/Game/2DSideScroller/Sprites/Dead_Monkey_Auto1.uasset
+[2017.02.16-02.38.35:241][152]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/MonkeyAnimations/monkey_armsup_Sprite] ([1] browsable assets)...
+[2017.02.16-02.38.35:253][152]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Sprites/MonkeyAnimations/monkey_armsup_Sprite.monkey_armsup_Sprite]
+[2017.02.16-02.38.35:253][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/MonkeyAnimations/monkey_armsup_Sprite]
+[2017.02.16-02.38.35:267][152]LogSavePackage: Save=12.30ms
+[2017.02.16-02.38.35:267][152]LogSavePackage: Moving '../../../../../../Users/mattlineback/git/monkeywrench/Saved/monkey_armsup_Sprite_Auto1AEEF9C904B095FB83E6304BD8CD27A66.tmp' to '../../../../../../Users/mattlineback/git/monkeywrench/Saved/Autosaves/Game/2DSideScroller/Sprites/MonkeyAnimations/monkey_armsup_Sprite_Auto1.uasset'
+[2017.02.16-02.38.35:269][152]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/git/monkeywrench/Saved/Autosaves/Game/2DSideScroller/Sprites/MonkeyAnimations/monkey_armsup_Sprite_Auto1.uasset
+[2017.02.16-02.38.35:270][152]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/MonkeyAnimations/monkey_armsup_happy_Sprite] ([1] browsable assets)...
+[2017.02.16-02.38.35:283][152]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Sprites/MonkeyAnimations/monkey_armsup_happy_Sprite.monkey_armsup_happy_Sprite]
+[2017.02.16-02.38.35:283][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/MonkeyAnimations/monkey_armsup_happy_Sprite]
+[2017.02.16-02.38.35:297][152]LogSavePackage: Save=12.50ms
+[2017.02.16-02.38.35:297][152]LogSavePackage: Moving '../../../../../../Users/mattlineback/git/monkeywrench/Saved/monkey_armsup_happy_Sprite_Auto17D578D894D0A9A1471935F88DEEA36B7.tmp' to '../../../../../../Users/mattlineback/git/monkeywrench/Saved/Autosaves/Game/2DSideScroller/Sprites/MonkeyAnimations/monkey_armsup_happy_Sprite_Auto1.uasset'
+[2017.02.16-02.38.35:299][152]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/git/monkeywrench/Saved/Autosaves/Game/2DSideScroller/Sprites/MonkeyAnimations/monkey_armsup_happy_Sprite_Auto1.uasset
+[2017.02.16-02.38.35:299][152]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/MonkeyAnimations/monkey_dead_Sprite] ([1] browsable assets)...
+[2017.02.16-02.38.35:312][152]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Sprites/MonkeyAnimations/monkey_dead_Sprite.monkey_dead_Sprite]
+[2017.02.16-02.38.35:312][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/MonkeyAnimations/monkey_dead_Sprite]
+[2017.02.16-02.38.35:326][152]LogSavePackage: Save=11.97ms
+[2017.02.16-02.38.35:326][152]LogSavePackage: Moving '../../../../../../Users/mattlineback/git/monkeywrench/Saved/monkey_dead_Sprite_Auto193A182494600C2A176459CA0E883DCBC.tmp' to '../../../../../../Users/mattlineback/git/monkeywrench/Saved/Autosaves/Game/2DSideScroller/Sprites/MonkeyAnimations/monkey_dead_Sprite_Auto1.uasset'
+[2017.02.16-02.38.35:328][152]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/git/monkeywrench/Saved/Autosaves/Game/2DSideScroller/Sprites/MonkeyAnimations/monkey_dead_Sprite_Auto1.uasset
+[2017.02.16-02.38.35:328][152]LogFileHelpers: Auto-saving content packages took 0.118
+[2017.02.16-02.39.54:629][937]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Sprites/Dead_Monkey" FILE="../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScroller/Sprites/Dead_Monkey.uasset" SILENT=true
+[2017.02.16-02.39.54:643][937]LogSavePackage: Save=10.96ms
+[2017.02.16-02.39.54:643][937]LogSavePackage: Moving '../../../../../../Users/mattlineback/git/monkeywrench/Saved/Dead_MonkeyE35D335648DB94B72688998CF5CB0180.tmp' to '../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScroller/Sprites/Dead_Monkey.uasset'
+[2017.02.16-02.39.54:651][937]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScroller/Sprites/Dead_Monkey.uasset
+[2017.02.16-02.41.10:844][686]Cmd: TRANSACTION UNDO
+[2017.02.16-02.41.10:844][686]LogEditorTransaction: Undo Insert Key Frame
+[2017.02.16-02.41.13:400][720]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Sprites/Dead_Monkey" FILE="../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScroller/Sprites/Dead_Monkey.uasset" SILENT=true
+[2017.02.16-02.41.13:427][720]LogSavePackage: Save=11.34ms
+[2017.02.16-02.41.13:427][720]LogSavePackage: Moving '../../../../../../Users/mattlineback/git/monkeywrench/Saved/Dead_Monkey857034624BBF8E7458FA5DAF67104BAC.tmp' to '../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScroller/Sprites/Dead_Monkey.uasset'
+[2017.02.16-02.41.13:431][720]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScroller/Sprites/Dead_Monkey.uasset
+[2017.02.16-02.44.54:221][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Sprites/Monkey_Exit" FILE="../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Exit.uasset" SILENT=true
+[2017.02.16-02.44.54:235][257]LogSavePackage: Save=11.30ms
+[2017.02.16-02.44.54:235][257]LogSavePackage: Moving '../../../../../../Users/mattlineback/git/monkeywrench/Saved/Monkey_Exit235B248F491EB2BBBC4AEEB85CC2E7B9.tmp' to '../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Exit.uasset'
+[2017.02.16-02.44.54:237][257]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Exit.uasset
+[2017.02.16-02.46.41:267][777]LogRenderer: Reallocating scene render targets to support 1528x1012 NumSamples 1 (Frame:11046).
+[2017.02.16-02.50.46:955][768]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.023
+[2017.02.16-02.50.46:956][768]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/Monkey_Exit] ([1] browsable assets)...
+[2017.02.16-02.50.46:969][768]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/2DSideScroller/Sprites/Monkey_Exit.Monkey_Exit]
+[2017.02.16-02.50.46:969][768]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/Monkey_Exit]
+[2017.02.16-02.50.46:995][768]LogSavePackage: Save=11.40ms
+[2017.02.16-02.50.46:995][768]LogSavePackage: Moving '../../../../../../Users/mattlineback/git/monkeywrench/Saved/Monkey_Exit_Auto2FD72C36A403DB5285A5B5CACD1CAB778.tmp' to '../../../../../../Users/mattlineback/git/monkeywrench/Saved/Autosaves/Game/2DSideScroller/Sprites/Monkey_Exit_Auto2.uasset'
+[2017.02.16-02.50.46:997][768]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/git/monkeywrench/Saved/Autosaves/Game/2DSideScroller/Sprites/Monkey_Exit_Auto2.uasset
+[2017.02.16-02.50.46:998][768]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_1_Sprite] ([1] browsable assets)...
+[2017.02.16-02.50.47:011][768]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_1_Sprite.monkey_walk_1_Sprite]
+[2017.02.16-02.50.47:012][768]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_1_Sprite]
+[2017.02.16-02.50.47:025][768]LogSavePackage: Save=11.57ms
+[2017.02.16-02.50.47:025][768]LogSavePackage: Moving '../../../../../../Users/mattlineback/git/monkeywrench/Saved/monkey_walk_1_Sprite_Auto2AA445D954610FCB62053178B70DC1C6B.tmp' to '../../../../../../Users/mattlineback/git/monkeywrench/Saved/Autosaves/Game/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_1_Sprite_Auto2.uasset'
+[2017.02.16-02.50.47:027][768]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/git/monkeywrench/Saved/Autosaves/Game/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_1_Sprite_Auto2.uasset
+[2017.02.16-02.50.47:028][768]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_2_Sprite] ([1] browsable assets)...
+[2017.02.16-02.50.47:040][768]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_2_Sprite.monkey_walk_2_Sprite]
+[2017.02.16-02.50.47:040][768]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_2_Sprite]
+[2017.02.16-02.50.47:054][768]LogSavePackage: Save=11.27ms
+[2017.02.16-02.50.47:054][768]LogSavePackage: Moving '../../../../../../Users/mattlineback/git/monkeywrench/Saved/monkey_walk_2_Sprite_Auto268520304422E7C8DD38EE0938ADAAA67.tmp' to '../../../../../../Users/mattlineback/git/monkeywrench/Saved/Autosaves/Game/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_2_Sprite_Auto2.uasset'
+[2017.02.16-02.50.47:055][768]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/git/monkeywrench/Saved/Autosaves/Game/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_2_Sprite_Auto2.uasset
+[2017.02.16-02.50.47:056][768]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_3_Sprite] ([1] browsable assets)...
+[2017.02.16-02.50.47:069][768]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_3_Sprite.monkey_walk_3_Sprite]
+[2017.02.16-02.50.47:069][768]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_3_Sprite]
+[2017.02.16-02.50.47:095][768]LogSavePackage: Save=23.64ms
+[2017.02.16-02.50.47:095][768]LogSavePackage: Moving '../../../../../../Users/mattlineback/git/monkeywrench/Saved/monkey_walk_3_Sprite_Auto2E27E05A84396CA730F13D891A180212B.tmp' to '../../../../../../Users/mattlineback/git/monkeywrench/Saved/Autosaves/Game/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_3_Sprite_Auto2.uasset'
+[2017.02.16-02.50.47:096][768]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/git/monkeywrench/Saved/Autosaves/Game/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_3_Sprite_Auto2.uasset
+[2017.02.16-02.50.47:097][768]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_4_Sprite] ([1] browsable assets)...
+[2017.02.16-02.50.47:110][768]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_4_Sprite.monkey_walk_4_Sprite]
+[2017.02.16-02.50.47:110][768]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_4_Sprite]
+[2017.02.16-02.50.47:123][768]LogSavePackage: Save=11.57ms
+[2017.02.16-02.50.47:124][768]LogSavePackage: Moving '../../../../../../Users/mattlineback/git/monkeywrench/Saved/monkey_walk_4_Sprite_Auto2C254ADC34EB9D46C5D1338AECEC1BA37.tmp' to '../../../../../../Users/mattlineback/git/monkeywrench/Saved/Autosaves/Game/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_4_Sprite_Auto2.uasset'
+[2017.02.16-02.50.47:125][768]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/git/monkeywrench/Saved/Autosaves/Game/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_4_Sprite_Auto2.uasset
+[2017.02.16-02.50.47:126][768]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_4_Sprite2] ([1] browsable assets)...
+[2017.02.16-02.50.47:139][768]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_4_Sprite2.monkey_walk_4_Sprite2]
+[2017.02.16-02.50.47:139][768]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_4_Sprite2]
+[2017.02.16-02.50.47:153][768]LogSavePackage: Save=11.78ms
+[2017.02.16-02.50.47:153][768]LogSavePackage: Moving '../../../../../../Users/mattlineback/git/monkeywrench/Saved/monkey_walk_4_Sprite2_Auto2434A1F1844256199F3F111B5E042C016.tmp' to '../../../../../../Users/mattlineback/git/monkeywrench/Saved/Autosaves/Game/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_4_Sprite2_Auto2.uasset'
+[2017.02.16-02.50.47:156][768]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/git/monkeywrench/Saved/Autosaves/Game/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_4_Sprite2_Auto2.uasset
+[2017.02.16-02.50.47:157][768]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_away_1_Sprite] ([1] browsable assets)...
+[2017.02.16-02.50.47:176][768]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_away_1_Sprite.monkey_walk_away_1_Sprite]
+[2017.02.16-02.50.47:176][768]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_away_1_Sprite]
+[2017.02.16-02.50.47:190][768]LogSavePackage: Save=12.38ms
+[2017.02.16-02.50.47:190][768]LogSavePackage: Moving '../../../../../../Users/mattlineback/git/monkeywrench/Saved/monkey_walk_away_1_Sprite_Auto2E81DAE5D45208A898412F1AE90E7F690.tmp' to '../../../../../../Users/mattlineback/git/monkeywrench/Saved/Autosaves/Game/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_away_1_Sprite_Auto2.uasset'
+[2017.02.16-02.50.47:192][768]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/git/monkeywrench/Saved/Autosaves/Game/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_away_1_Sprite_Auto2.uasset
+[2017.02.16-02.50.47:193][768]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_away_2_Sprite] ([1] browsable assets)...
+[2017.02.16-02.50.47:205][768]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_away_2_Sprite.monkey_walk_away_2_Sprite]
+[2017.02.16-02.50.47:205][768]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_away_2_Sprite]
+[2017.02.16-02.50.47:220][768]LogSavePackage: Save=12.10ms
+[2017.02.16-02.50.47:220][768]LogSavePackage: Moving '../../../../../../Users/mattlineback/git/monkeywrench/Saved/monkey_walk_away_2_Sprite_Auto294CE4A8C4E544A5BA0C64B872C9B1810.tmp' to '../../../../../../Users/mattlineback/git/monkeywrench/Saved/Autosaves/Game/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_away_2_Sprite_Auto2.uasset'
+[2017.02.16-02.50.47:221][768]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/git/monkeywrench/Saved/Autosaves/Game/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_away_2_Sprite_Auto2.uasset
+[2017.02.16-02.50.47:222][768]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_away_3_Sprite] ([1] browsable assets)...
+[2017.02.16-02.50.47:236][768]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_away_3_Sprite.monkey_walk_away_3_Sprite]
+[2017.02.16-02.50.47:236][768]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_away_3_Sprite]
+[2017.02.16-02.50.47:249][768]LogSavePackage: Save=11.70ms
+[2017.02.16-02.50.47:249][768]LogSavePackage: Moving '../../../../../../Users/mattlineback/git/monkeywrench/Saved/monkey_walk_away_3_Sprite_Auto26714622A4E7EEB122E2254987D160162.tmp' to '../../../../../../Users/mattlineback/git/monkeywrench/Saved/Autosaves/Game/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_away_3_Sprite_Auto2.uasset'
+[2017.02.16-02.50.47:251][768]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/git/monkeywrench/Saved/Autosaves/Game/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_away_3_Sprite_Auto2.uasset
+[2017.02.16-02.50.47:251][768]LogFileHelpers: Auto-saving content packages took 0.295
+[2017.02.16-02.55.04:044][351]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Sprites/Monkey_Exit" FILE="../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Exit.uasset" SILENT=true
+[2017.02.16-02.55.04:063][351]LogSavePackage: Save=6.05ms
+[2017.02.16-02.55.04:063][351]LogSavePackage: Moving '../../../../../../Users/mattlineback/git/monkeywrench/Saved/Monkey_Exit47B944594752983C1C4B1FBEB98ED6ED.tmp' to '../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Exit.uasset'
+[2017.02.16-02.55.04:094][351]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Exit.uasset
+[2017.02.16-02.55.43:973][778]LogTexture:Display: Building textures: Icon_cage (AutoDXT)
+[2017.02.16-02.55.53:276][884]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Winter_lab_machinery_S5E5_Sprite)
+[2017.02.16-02.56.21:048][171]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Winter_lab_machinery_S5E5_Sprite)
+[2017.02.16-02.56.22:868][190]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Winter_lab_machinery_S5E5_Sprite)
+[2017.02.16-02.56.23:051][190]LogEditorViewport: Clicking on Component (LMB): PaperSpriteComponent (RenderComponent)
+[2017.02.16-02.56.24:003][203]LogEditorViewport: Clicking on Component (context menu): PaperSpriteComponent (RenderComponent)
+[2017.02.16-02.56.25:439][257]LogEditorViewport: Clicking on Component (LMB): PaperSpriteComponent (RenderComponent)
+[2017.02.16-02.56.49:400][719]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.02.16-02.56.50:055][719]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 111 classes and 0 folders.
+[2017.02.16-02.59.02:673][719]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2017.02.16-02.59.05:980][746]LogTemp: Repeting last play command: Selected Viewport
+[2017.02.16-02.59.06:008][746]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.02.16-02.59.06:008][746]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.16-02.59.06:018][746]PIE: New page: PIE session: 2DSideScrollerExampleMap (Feb 15, 2017, 4:59:06 PM)
+[2017.02.16-02.59.06:018][746]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2017.02.16-02.59.06:024][746]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005193s)
+[2017.02.16-02.59.06:025][746]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.02.16-02.59.06:025][746]LogPlayLevel: PIE: World Init took: (0.001146s)
+[2017.02.16-02.59.06:025][746]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.006725s)
+[2017.02.16-02.59.06:077][746]LogInit: XAudio2 using 'AMD HDMI Output (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.02.16-02.59.06:086][746]LogInit: FAudioDevice initialized.
+[2017.02.16-02.59.06:169][746]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.02.16-02.59.06:191][746]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2017.02.15-21.59.06
+[2017.02.16-02.59.06:192][746]LogWorld: Bringing up level for play took: 0.002500
+[2017.02.16-02.59.06:278][746]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 11 classes and 0 folders.
+[2017.02.16-02.59.06:280][746]PIE: Info Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 1.132
+[2017.02.16-02.59.06:280][746]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.02.16-02.59.15:108][845]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.02.16-02.59.15:286][845]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.02.16-03.00.56:095][673]LogTemp: Repeting last play command: Selected Viewport
+[2017.02.16-03.00.56:110][673]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.02.16-03.00.56:110][673]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.16-03.00.56:111][673]PIE: New page: PIE session: 2DSideScrollerExampleMap (Feb 15, 2017, 5:00:56 PM)
+[2017.02.16-03.00.56:111][673]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2017.02.16-03.00.56:116][673]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005389s)
+[2017.02.16-03.00.56:117][673]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.02.16-03.00.56:117][673]LogPlayLevel: PIE: World Init took: (0.001124s)
+[2017.02.16-03.00.56:118][673]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.006802s)
+[2017.02.16-03.00.56:161][673]LogInit: XAudio2 using 'AMD HDMI Output (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.02.16-03.00.56:169][673]LogInit: FAudioDevice initialized.
+[2017.02.16-03.00.56:246][673]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.02.16-03.00.56:250][673]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2017.02.15-22.00.56
+[2017.02.16-03.00.56:251][673]LogWorld: Bringing up level for play took: 0.003928
+[2017.02.16-03.00.56:253][673]PIE: Info Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 1.105
+[2017.02.16-03.00.56:253][673]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.02.16-03.00.59:518][709]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.02.16-03.00.59:666][709]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.02.16-03.01.06:182][770]LogTemp: Repeting last play command: Selected Viewport
+[2017.02.16-03.01.06:218][770]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.02.16-03.01.06:219][770]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.16-03.01.06:219][770]PIE: New page: PIE session: 2DSideScrollerExampleMap (Feb 15, 2017, 5:01:06 PM)
+[2017.02.16-03.01.06:219][770]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2017.02.16-03.01.06:224][770]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005210s)
+[2017.02.16-03.01.06:225][770]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.02.16-03.01.06:225][770]LogPlayLevel: PIE: World Init took: (0.001056s)
+[2017.02.16-03.01.06:226][770]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.006663s)
+[2017.02.16-03.01.06:284][770]LogInit: XAudio2 using 'AMD HDMI Output (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.02.16-03.01.06:291][770]LogInit: FAudioDevice initialized.
+[2017.02.16-03.01.06:320][770]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.02.16-03.01.06:322][770]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2017.02.15-22.01.06
+[2017.02.16-03.01.06:323][770]LogWorld: Bringing up level for play took: 0.001948
+[2017.02.16-03.01.06:324][770]PIE: Info Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.824
+[2017.02.16-03.01.06:324][770]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.02.16-03.02.48:091][340]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.02.16-03.02.48:199][340]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.02.16-03.03.00:268][460]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.02.16-03.03.23:793][681]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.02.16-03.03.45:515][866]Cmd: TRANSACTION UNDO
+[2017.02.16-03.03.45:515][866]LogEditorTransaction: Undo Edit Replay Spectator Player Controller Class
+[2017.02.16-03.03.58:626][986]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.02.16-03.05.00:933][491]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2017.02.16-03.05.08:412][551]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2017.02.16-03.05.18:022][643]LogTemp: Repeting last play command: Selected Viewport
+[2017.02.16-03.05.18:043][643]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.02.16-03.05.18:043][643]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.16-03.05.18:043][643]PIE: New page: PIE session: 2DSideScrollerExampleMap (Feb 15, 2017, 5:05:18 PM)
+[2017.02.16-03.05.18:043][643]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2017.02.16-03.05.18:047][643]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004137s)
+[2017.02.16-03.05.18:048][643]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.02.16-03.05.18:048][643]LogPlayLevel: PIE: World Init took: (0.000873s)
+[2017.02.16-03.05.18:048][643]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.005254s)
+[2017.02.16-03.05.18:121][643]LogInit: XAudio2 using 'AMD HDMI Output (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.02.16-03.05.18:129][643]LogInit: FAudioDevice initialized.
+[2017.02.16-03.05.18:157][643]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.02.16-03.05.18:159][643]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2017.02.15-22.05.18
+[2017.02.16-03.05.18:159][643]LogWorld: Bringing up level for play took: 0.002095
+[2017.02.16-03.05.18:160][643]PIE: Info Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 1.013
+[2017.02.16-03.05.18:161][643]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.02.16-03.05.43:120][ 30]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.02.16-03.05.43:229][ 30]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.02.16-03.05.55:628][106]LogSavePackage: Save=12.95ms
+[2017.02.16-03.05.55:628][106]LogSavePackage: Moving '../../../../../../Users/mattlineback/git/monkeywrench/Saved/monkey_walk_1_SpriteDDEBBE4A4255F9E5DBCAFFAF546DCF4C.tmp' to '../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_1_Sprite.uasset'
+[2017.02.16-03.05.55:636][106]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_1_Sprite.uasset
+[2017.02.16-03.05.55:783][106]LogSavePackage: Save=11.65ms
+[2017.02.16-03.05.55:783][106]LogSavePackage: Moving '../../../../../../Users/mattlineback/git/monkeywrench/Saved/monkey_walk_2_Sprite69A1E01E4B78F576D0891D940FBC1D7E.tmp' to '../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_2_Sprite.uasset'
+[2017.02.16-03.05.55:792][106]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_2_Sprite.uasset
+[2017.02.16-03.05.55:945][106]LogSavePackage: Save=11.80ms
+[2017.02.16-03.05.55:945][106]LogSavePackage: Moving '../../../../../../Users/mattlineback/git/monkeywrench/Saved/monkey_walk_3_Sprite698464CB4E584E4631036183FAB971A9.tmp' to '../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_3_Sprite.uasset'
+[2017.02.16-03.05.55:953][106]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_3_Sprite.uasset
+[2017.02.16-03.05.56:095][106]LogSavePackage: Save=11.62ms
+[2017.02.16-03.05.56:095][106]LogSavePackage: Moving '../../../../../../Users/mattlineback/git/monkeywrench/Saved/monkey_walk_4_Sprite2549C283454CF64E6B8860A368F17995.tmp' to '../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_4_Sprite.uasset'
+[2017.02.16-03.05.56:132][106]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_4_Sprite.uasset
+[2017.02.16-03.05.56:282][106]LogSavePackage: Save=11.58ms
+[2017.02.16-03.05.56:282][106]LogSavePackage: Moving '../../../../../../Users/mattlineback/git/monkeywrench/Saved/monkey_walk_4_Sprite25364793F4E13225281C74F854C6AB4F4.tmp' to '../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_4_Sprite2.uasset'
+[2017.02.16-03.05.56:292][106]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_4_Sprite2.uasset
+[2017.02.16-03.05.56:446][106]LogSavePackage: Save=12.27ms
+[2017.02.16-03.05.56:446][106]LogSavePackage: Moving '../../../../../../Users/mattlineback/git/monkeywrench/Saved/monkey_walk_away_1_SpriteE3B857E74533C9C4C54638B16C75827E.tmp' to '../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_away_1_Sprite.uasset'
+[2017.02.16-03.05.56:457][106]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_away_1_Sprite.uasset
+[2017.02.16-03.05.56:603][106]LogSavePackage: Save=11.89ms
+[2017.02.16-03.05.56:603][106]LogSavePackage: Moving '../../../../../../Users/mattlineback/git/monkeywrench/Saved/monkey_walk_away_2_SpriteE4EFC02C434CA0FB5B3EEE85CBEB056D.tmp' to '../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_away_2_Sprite.uasset'
+[2017.02.16-03.05.56:612][106]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_away_2_Sprite.uasset
+[2017.02.16-03.05.56:894][106]LogSavePackage: Save=12.08ms
+[2017.02.16-03.05.56:894][106]LogSavePackage: Moving '../../../../../../Users/mattlineback/git/monkeywrench/Saved/monkey_walk_away_3_SpriteA5A43D534961EE91BA9251BB259727A1.tmp' to '../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_away_3_Sprite.uasset'
+[2017.02.16-03.05.56:897][106]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScroller/Sprites/Monkey_Walk_Frames/monkey_walk_away_3_Sprite.uasset
+[2017.02.16-03.05.57:050][106]LogSavePackage: Save=12.80ms
+[2017.02.16-03.05.57:051][106]LogSavePackage: Moving '../../../../../../Users/mattlineback/git/monkeywrench/Saved/monkey_armsup_happy_Sprite302E151D40F5BABE51B65EA76DB6ABD0.tmp' to '../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScroller/Sprites/MonkeyAnimations/monkey_armsup_happy_Sprite.uasset'
+[2017.02.16-03.05.57:059][106]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScroller/Sprites/MonkeyAnimations/monkey_armsup_happy_Sprite.uasset
+[2017.02.16-03.05.57:226][106]LogSavePackage: Save=11.96ms
+[2017.02.16-03.05.57:226][106]LogSavePackage: Moving '../../../../../../Users/mattlineback/git/monkeywrench/Saved/monkey_armsup_Sprite627192194EE498ED802555B9EAAA4A53.tmp' to '../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScroller/Sprites/MonkeyAnimations/monkey_armsup_Sprite.uasset'
+[2017.02.16-03.05.57:232][106]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScroller/Sprites/MonkeyAnimations/monkey_armsup_Sprite.uasset
+[2017.02.16-03.05.57:377][106]LogSavePackage: Save=12.05ms
+[2017.02.16-03.05.57:377][106]LogSavePackage: Moving '../../../../../../Users/mattlineback/git/monkeywrench/Saved/monkey_dead_SpriteC094431A4C15FAA4A2E2D69778EA6B29.tmp' to '../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScroller/Sprites/MonkeyAnimations/monkey_dead_Sprite.uasset'
+[2017.02.16-03.05.57:381][106]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScroller/Sprites/MonkeyAnimations/monkey_dead_Sprite.uasset
+[2017.02.16-03.05.57:577][106]LogSavePackage: Save=57.09ms
+[2017.02.16-03.05.57:577][106]LogSavePackage: Moving '../../../../../../Users/mattlineback/git/monkeywrench/Saved/2DSideScrollerCharacterEF27D50C4FC2F4E29702A59897382416.tmp' to '../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2017.02.16-03.05.57:580][106]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset
+[2017.02.16-03.05.57:817][106]LogSavePackage: Save=117.71ms
+[2017.02.16-03.05.57:817][106]LogSavePackage: Moving '../../../../../../Users/mattlineback/git/monkeywrench/Saved/2DSideScrollerExampleMap56F2F09A43A389FB74CB61BAB958D666.tmp' to '../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2017.02.16-03.05.57:820][106]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap
+[2017.02.16-03.05.57:853][106]LogFileHelpers: Saving map '2DSideScrollerExampleMap' took 0.269
+[2017.02.16-03.06.04:939][142]LogTemp: Repeting last play command: Selected Viewport
+[2017.02.16-03.06.04:966][142]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.02.16-03.06.04:966][142]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.16-03.06.04:966][142]PIE: New page: PIE session: 2DSideScrollerExampleMap (Feb 15, 2017, 5:06:04 PM)
+[2017.02.16-03.06.04:967][142]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2017.02.16-03.06.04:973][142]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006750s)
+[2017.02.16-03.06.04:974][142]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.02.16-03.06.04:974][142]LogPlayLevel: PIE: World Init took: (0.000957s)
+[2017.02.16-03.06.04:975][142]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.008073s)
+[2017.02.16-03.06.05:010][142]LogInit: XAudio2 using 'AMD HDMI Output (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.02.16-03.06.05:019][142]LogInit: FAudioDevice initialized.
+[2017.02.16-03.06.05:050][142]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.02.16-03.06.05:052][142]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2017.02.15-22.06.05
+[2017.02.16-03.06.05:052][142]LogWorld: Bringing up level for play took: 0.002009
+[2017.02.16-03.06.05:054][142]PIE: Info Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.094
+[2017.02.16-03.06.05:054][142]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.02.16-03.06.16:398][318]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.02.16-03.06.16:506][318]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.02.16-03.06.24:289][396]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.02.16-03.06.36:261][490]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2017.02.16-03.06.43:104][543]LogSavePackage: Save=69.72ms
+[2017.02.16-03.06.43:104][543]LogSavePackage: Moving '../../../../../../Users/mattlineback/git/monkeywrench/Saved/2DSideScrollerCharacter1C13AFDF4B7DEDB0F933208DF2BC897D.tmp' to '../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2017.02.16-03.06.43:108][543]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset
+[2017.02.16-03.06.48:208][594]LogTemp: Repeting last play command: Selected Viewport
+[2017.02.16-03.06.48:223][594]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.02.16-03.06.48:223][594]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.16-03.06.48:223][594]PIE: New page: PIE session: 2DSideScrollerExampleMap (Feb 15, 2017, 5:06:48 PM)
+[2017.02.16-03.06.48:224][594]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2017.02.16-03.06.48:227][594]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003687s)
+[2017.02.16-03.06.48:228][594]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.02.16-03.06.48:228][594]LogPlayLevel: PIE: World Init took: (0.000802s)
+[2017.02.16-03.06.48:228][594]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.004731s)
+[2017.02.16-03.06.48:309][594]LogInit: XAudio2 using 'AMD HDMI Output (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.02.16-03.06.48:317][594]LogInit: FAudioDevice initialized.
+[2017.02.16-03.06.48:345][594]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.02.16-03.06.48:348][594]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2017.02.15-22.06.48
+[2017.02.16-03.06.48:348][594]LogWorld: Bringing up level for play took: 0.002532
+[2017.02.16-03.06.48:350][594]PIE: Info Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.798
+[2017.02.16-03.06.48:350][594]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.02.16-03.07.20:937][ 98]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.02.16-03.07.21:042][ 98]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.02.16-03.07.26:630][155]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.02.16-03.07.40:762][266]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2017.02.16-03.07.43:904][289]LogSavePackage: Save=54.71ms
+[2017.02.16-03.07.43:904][289]LogSavePackage: Moving '../../../../../../Users/mattlineback/git/monkeywrench/Saved/2DSideScrollerCharacterF9A7A0D5450F0A5122E1EFA22BC584D1.tmp' to '../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2017.02.16-03.07.43:908][289]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset
+[2017.02.16-03.07.48:717][334]LogTemp: Repeting last play command: Selected Viewport
+[2017.02.16-03.07.48:745][334]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.02.16-03.07.48:745][334]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.16-03.07.48:745][334]PIE: New page: PIE session: 2DSideScrollerExampleMap (Feb 15, 2017, 5:07:48 PM)
+[2017.02.16-03.07.48:745][334]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2017.02.16-03.07.48:749][334]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004437s)
+[2017.02.16-03.07.48:750][334]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.02.16-03.07.48:750][334]LogPlayLevel: PIE: World Init took: (0.000838s)
+[2017.02.16-03.07.48:751][334]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.005567s)
+[2017.02.16-03.07.48:819][334]LogInit: XAudio2 using 'AMD HDMI Output (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.02.16-03.07.48:827][334]LogInit: FAudioDevice initialized.
+[2017.02.16-03.07.48:856][334]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.02.16-03.07.48:858][334]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2017.02.15-22.07.48
+[2017.02.16-03.07.48:858][334]LogWorld: Bringing up level for play took: 0.001899
+[2017.02.16-03.07.48:859][334]PIE: Info Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.288
+[2017.02.16-03.07.48:860][334]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.02.16-03.08.17:902][785]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.02.16-03.08.18:002][785]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.02.16-03.08.26:545][872]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.02.16-03.08.39:623][973]LogSavePackage: Save=61.81ms
+[2017.02.16-03.08.39:623][973]LogSavePackage: Moving '../../../../../../Users/mattlineback/git/monkeywrench/Saved/2DSideScrollerCharacterFA23A25D4F44B2E162D4F6A2AF10CA29.tmp' to '../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2017.02.16-03.08.39:628][973]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset
+[2017.02.16-03.08.40:303][980]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2017.02.16-03.11.29:293][366]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.02.16-03.12.08:827][757]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.02.16-03.13.09:731][264]LogSavePackage: Save=114.48ms
+[2017.02.16-03.13.09:731][264]LogSavePackage: Moving '../../../../../../Users/mattlineback/git/monkeywrench/Saved/2DSideScrollerExampleMap557C353841093292C51DB9AAF37FBC4F.tmp' to '../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2017.02.16-03.13.09:735][264]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap
+[2017.02.16-03.13.09:762][264]LogFileHelpers: Saving map '2DSideScrollerExampleMap' took 0.259
+[2017.02.16-03.13.17:630][345]SourceControl: Info fatal: C:/Program Files (x86)/Epic Games/4.14/Engine/Content/: 'C:/Program Files (x86)/Epic Games/4.14/Engine/Content/' is outside repository
+[2017.02.16-03.13.17:791][345]LogPackageName:Error: Illegal call to DoesPackageExist: '../../../../../../Users/mattlineback/git/monkeywrench/MonkeyWrench.uproject' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2017.02.16-03.13.24:179][345]LogStats: FPlatformStackWalk::StackWalkAndDump -  6.388 s
+[2017.02.16-03.13.24:179][345]LogOutputDevice:Error: === Handled ensure: ===
+[2017.02.16-03.13.24:179][345]LogOutputDevice:Error: 
+[2017.02.16-03.13.24:179][345]LogOutputDevice:Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.14+Compile\Sync\Engine\Source\Runtime\CoreUObject\Private\Misc\PackageName.cpp] [Line: 624]
+[2017.02.16-03.13.24:179][345]LogOutputDevice:Error: Illegal call to DoesPackageExist: '../../../../../../Users/mattlineback/git/monkeywrench/MonkeyWrench.uproject' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2017.02.16-03.13.24:179][345]LogOutputDevice:Error: Stack: 
+[2017.02.16-03.13.24:179][345]LogOutputDevice:Error: UE4Editor-Core.dll!FWindowsPlatformStackWalk::StackWalkAndDump() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\core\private\windows\windowsplatformstackwalk.cpp:185]
+[2017.02.16-03.13.24:179][345]LogOutputDevice:Error: UE4Editor-Core.dll!FDebug::EnsureFailed() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\core\private\misc\assertionmacros.cpp:216]
+[2017.02.16-03.13.24:179][345]LogOutputDevice:Error: UE4Editor-Core.dll!FDebug::OptionallyLogFormattedEnsureMessageReturningFalse() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\core\private\misc\assertionmacros.cpp:343]
+[2017.02.16-03.13.24:179][345]LogOutputDevice:Error: UE4Editor-CoreUObject.dll!FPackageName::DoesPackageExist() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\coreuobject\private\misc\packagename.cpp:624]
+[2017.02.16-03.13.24:179][345]LogOutputDevice:Error: UE4Editor-SourceControl.dll!SourceControlHelpers::PackageFilename_Internal() [d:\build\++ue4+release-4.14+compile\sync\engine\source\developer\sourcecontrol\private\sourcecontrolhelpers.cpp:52]
+[2017.02.16-03.13.24:179][345]LogOutputDevice:Error: UE4Editor-SourceControl.dll!SourceControlHelpers::PackageFilenames() [d:\build\++ue4+release-4.14+compile\sync\engine\source\developer\sourcecontrol\private\sourcecontrolhelpers.cpp:103]
+[2017.02.16-03.13.24:179][345]LogOutputDevice:Error: UE4Editor-SourceControlWindows.dll!FSourceControlWindows::PromptForCheckin() [d:\build\++ue4+release-4.14+compile\sync\engine\source\editor\sourcecontrolwindows\private\ssourcecontrolsubmit.cpp:597]
+[2017.02.16-03.13.24:179][345]LogOutputDevice:Error: UE4Editor-SourceControlWindows.dll!FSourceControlWindows::ChoosePackagesToCheckInCompleted() [d:\build\++ue4+release-4.14+compile\sync\engine\source\editor\sourcecontrolwindows\private\ssourcecontrolsubmit.cpp:456]
+[2017.02.16-03.13.24:179][345]LogOutputDevice:Error: UE4Editor-SourceControlWindows.dll!FSourceControlWindows::ChoosePackagesToCheckInCallback() [d:\build\++ue4+release-4.14+compile\sync\engine\source\editor\sourcecontrolwindows\private\ssourcecontrolsubmit.cpp:520]
+[2017.02.16-03.13.24:179][345]LogOutputDevice:Error: UE4Editor-SourceControlWindows.dll!TBaseStaticDelegateInstance<void __cdecl(TSharedRef<ISourceControlOperation,1> const & __ptr64,enum ECommandResult::Type)>::ExecuteIfSafe() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:1018]
+[2017.02.16-03.13.24:179][345]LogOutputDevice:Error: UE4Editor-GitSourceControl.dll
+[2017.02.16-03.13.24:179][345]LogOutputDevice:Error: UE4Editor-GitSourceControl.dll
+[2017.02.16-03.13.24:179][345]LogOutputDevice:Error: UE4Editor-SourceControl.dll!FSourceControlModule::Tick() [d:\build\++ue4+release-4.14+compile\sync\engine\source\developer\sourcecontrol\private\sourcecontrolmodule.cpp:235]
+[2017.02.16-03.13.24:179][345]LogOutputDevice:Error: UE4Editor-UnrealEd.dll!UEditorEngine::Tick() [d:\build\++ue4+release-4.14+compile\sync\engine\source\editor\unrealed\private\editorengine.cpp:1587]
+[2017.02.16-03.13.24:179][345]LogOutputDevice:Error: UE4Editor-UnrealEd.dll!UUnrealEdEngine::Tick() [d:\build\++ue4+release-4.14+compile\sync\engine\source\editor\unrealed\private\unrealedengine.cpp:371]
+[2017.02.16-03.13.24:179][345]LogOutputDevice:Error: UE4Editor.exe!FEngineLoop::Tick() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\launch\private\launchengineloop.cpp:2859]
+[2017.02.16-03.13.24:179][345]LogOutputDevice:Error: UE4Editor.exe!GuardedMain() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\launch\private\launch.cpp:152]
+[2017.02.16-03.13.24:179][345]LogOutputDevice:Error: UE4Editor.exe!GuardedMainWrapper() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:126]
+[2017.02.16-03.13.24:179][345]LogOutputDevice:Error: UE4Editor.exe!WinMain() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:202]
+[2017.02.16-03.13.24:179][345]LogOutputDevice:Error: UE4Editor.exe!__scrt_common_main_seh() [f:\dd\vctools\crt\vcstartup\src\startup\exe_common.inl:264]
+[2017.02.16-03.13.24:179][345]LogOutputDevice:Error: KERNEL32.DLL
+[2017.02.16-03.13.24:179][345]LogOutputDevice:Error: ntdll.dll
+[2017.02.16-03.13.24:179][345]LogOutputDevice:Error: 
+[2017.02.16-03.13.24:189][345]LogStats:                SubmitErrorReport -  0.000 s
