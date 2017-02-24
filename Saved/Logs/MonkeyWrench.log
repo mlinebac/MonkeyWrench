@@ -686,3 +686,503 @@ LogInit: Object subsystem initialized
 [2017.02.24-03.23.02:393][818]SourceControl: Info fatal: C:/Program Files (x86)/Epic Games/4.14/Engine/Content/: 'C:/Program Files (x86)/Epic Games/4.14/Engine/Content/' is outside repository
 [2017.02.24-03.23.02:571][818]LogPackageName:Error: Illegal call to DoesPackageExist: '../../../../../../Users/mattlineback/git/monkeywrench/MonkeyWrench.uproject' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
 [2017.02.24-03.23.27:965][818]LogSourceControl: FGitCheckInWorker: commit successful
+[2017.02.24-03.23.28:131][818]SourceControl: Info [master d0ffede] more house cleaning
+[2017.02.24-03.23.28:131][818]SourceControl: Info  27 files changed, 0 insertions(+), 0 deletions(-)
+[2017.02.24-03.23.28:131][818]SourceControl: Info  delete mode 100644 Content/2DSideScroller/Sprites/Background_Sprite.uasset
+[2017.02.24-03.23.28:131][818]SourceControl: Info  delete mode 100644 Content/2DSideScroller/Sprites/IdleFrames/IdleCycle1.uasset
+[2017.02.24-03.23.28:131][818]SourceControl: Info  delete mode 100644 Content/2DSideScroller/Sprites/IdleFrames/IdleCycle2.uasset
+[2017.02.24-03.23.28:131][818]SourceControl: Info  delete mode 100644 Content/2DSideScroller/Sprites/IdleFrames/IdleCycle3.uasset
+[2017.02.24-03.23.28:131][818]SourceControl: Info  delete mode 100644 Content/2DSideScroller/Sprites/IdleFrames/IdleCycle4.uasset
+[2017.02.24-03.23.28:131][818]SourceControl: Info  delete mode 100644 Content/2DSideScroller/Sprites/IdleFrames/IdleCycle5.uasset
+[2017.02.24-03.23.28:131][818]SourceControl: Info  delete mode 100644 Content/2DSideScroller/Sprites/IdleFrames/IdleCycle6.uasset
+[2017.02.24-03.23.28:131][818]SourceControl: Info  delete mode 100644 Content/2DSideScroller/Sprites/IdleFrames/IdleCycle7.uasset
+[2017.02.24-03.23.28:131][818]SourceControl: Info  delete mode 100644 Content/2DSideScroller/Sprites/IdleFrames/IdleCycle8.uasset
+[2017.02.24-03.23.28:131][818]SourceControl: Info  delete mode 100644 Content/2DSideScroller/Sprites/RunFrames/RunCycle_1.uasset
+[2017.02.24-03.23.28:131][818]SourceControl: Info  delete mode 100644 Content/2DSideScroller/Sprites/RunFrames/RunCycle_10.uasset
+[2017.02.24-03.23.28:131][818]SourceControl: Info  delete mode 100644 Content/2DSideScroller/Sprites/RunFrames/RunCycle_11.uasset
+[2017.02.24-03.23.28:131][818]SourceControl: Info  delete mode 100644 Content/2DSideScroller/Sprites/RunFrames/RunCycle_12.uasset
+[2017.02.24-03.23.28:131][818]SourceControl: Info  delete mode 100644 Content/2DSideScroller/Sprites/RunFrames/RunCycle_13.uasset
+[2017.02.24-03.23.28:131][818]SourceControl: Info  delete mode 100644 Content/2DSideScroller/Sprites/RunFrames/RunCycle_14.uasset
+[2017.02.24-03.23.28:131][818]SourceControl: Info  delete mode 100644 Content/2DSideScroller/Sprites/RunFrames/RunCycle_15.uasset
+[2017.02.24-03.23.28:131][818]SourceControl: Info  delete mode 100644 Content/2DSideScroller/Sprites/RunFrames/RunCycle_16.uasset
+[2017.02.24-03.23.28:131][818]SourceControl: Info  delete mode 100644 Content/2DSideScroller/Sprites/RunFrames/RunCycle_2.uasset
+[2017.02.24-03.23.28:131][818]SourceControl: Info  delete mode 100644 Content/2DSideScroller/Sprites/RunFrames/RunCycle_3.uasset
+[2017.02.24-03.23.28:131][818]SourceControl: Info  delete mode 100644 Content/2DSideScroller/Sprites/RunFrames/RunCycle_4.uasset
+[2017.02.24-03.23.28:131][818]SourceControl: Info  delete mode 100644 Content/2DSideScroller/Sprites/RunFrames/RunCycle_5.uasset
+[2017.02.24-03.23.28:131][818]SourceControl: Info  delete mode 100644 Content/2DSideScroller/Sprites/RunFrames/RunCycle_6.uasset
+[2017.02.24-03.23.28:131][818]SourceControl: Info  delete mode 100644 Content/2DSideScroller/Sprites/RunFrames/RunCycle_7.uasset
+[2017.02.24-03.23.28:131][818]SourceControl: Info  delete mode 100644 Content/2DSideScroller/Sprites/RunFrames/RunCycle_8.uasset
+[2017.02.24-03.23.28:131][818]SourceControl: Info  delete mode 100644 Content/2DSideScroller/Sprites/RunFrames/RunCycle_9.uasset
+[2017.02.24-03.23.28:134][818]SourceControl: Info Commited [master d0ffede] more house cleaning.
+[2017.02.24-03.25.39:453][263]LogTemp: Repeting last play command: Selected Viewport
+[2017.02.24-03.25.39:470][263]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.02.24-03.25.39:470][263]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.24-03.25.39:471][263]PIE: New page: PIE session: 2DSideScrollerExampleMap (Feb 23, 2017, 5:25:39 PM)
+[2017.02.24-03.25.39:471][263]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2017.02.24-03.25.39:476][263]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005094s)
+[2017.02.24-03.25.39:477][263]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.02.24-03.25.39:477][263]LogPlayLevel: PIE: World Init took: (0.000962s)
+[2017.02.24-03.25.39:477][263]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.006371s)
+[2017.02.24-03.25.39:504][263]LogInit: XAudio2 using 'AMD HDMI Output (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.02.24-03.25.39:513][263]LogInit: FAudioDevice initialized.
+[2017.02.24-03.25.39:572][263]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.02.24-03.25.39:575][263]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2017.02.23-22.25.39
+[2017.02.24-03.25.39:575][263]LogWorld: Bringing up level for play took: 0.002312
+[2017.02.24-03.25.39:576][263]PIE: Info Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.5
+[2017.02.24-03.25.39:576][263]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.02.24-03.25.47:037][369]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.02.24-03.25.47:172][369]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.02.24-03.25.53:389][433]LogSavePackage: Save=86.95ms
+[2017.02.24-03.25.53:389][433]LogSavePackage: Moving '../../../../../../Users/mattlineback/git/monkeywrench/Saved/2DSideScrollerExampleMap99B485F5415A66CEDC8AE598D600DA37.tmp' to '../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2017.02.24-03.25.53:391][433]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap
+[2017.02.24-03.25.53:510][433]LogSavePackage: Save=4.59ms
+[2017.02.24-03.25.53:510][433]LogSavePackage: Moving '../../../../../../Users/mattlineback/git/monkeywrench/Saved/2DSideScrollerExampleMap_BuiltDataE86310764CBF6C5C714926A984F0DC1A.tmp' to '../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2017.02.24-03.25.53:511][433]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset
+[2017.02.24-03.26.58:070][761]LogEditorViewport: Clicking on Actor (LMB): exit_door_C (exit_door)
+[2017.02.24-03.26.59:842][780]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Winter_lab_machinery_S5E5_Sprite_0)
+[2017.02.24-03.27.21:749][995]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.02.24-03.27.21:759][995]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.02.24-03.27.21:772][996]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.02.24-03.27.21:780][996]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.02.24-03.27.21:856][997]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.02.24-03.27.21:866][997]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.02.24-03.27.21:967][998]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.02.24-03.27.21:975][998]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.02.24-03.27.22:064][999]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.02.24-03.27.22:073][999]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.02.24-03.27.22:175][  0]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.02.24-03.27.22:193][  0]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.02.24-03.27.22:283][  1]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.02.24-03.27.22:292][  1]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.02.24-03.27.22:388][  2]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.02.24-03.27.22:396][  2]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.02.24-03.27.22:483][  3]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.02.24-03.27.22:507][  3]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.02.24-03.27.22:593][  4]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.02.24-03.27.22:597][  4]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.02.24-03.27.22:606][  4]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.02.24-03.27.22:700][  5]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.02.24-03.27.22:708][  5]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.02.24-03.27.22:796][  6]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.02.24-03.27.22:804][  6]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.02.24-03.27.22:898][  7]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.02.24-03.27.22:907][  7]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.02.24-03.27.23:001][  8]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.02.24-03.27.23:009][  8]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.02.24-03.27.23:102][  9]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.02.24-03.27.23:111][  9]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.02.24-03.27.23:204][ 10]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.02.24-03.27.23:212][ 10]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.02.24-03.27.23:305][ 11]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.02.24-03.27.23:310][ 11]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.02.24-03.27.23:407][ 12]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.02.24-03.27.23:415][ 12]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.02.24-03.27.23:509][ 13]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.02.24-03.27.23:518][ 13]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.02.24-03.27.23:611][ 14]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.02.24-03.27.23:621][ 14]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.02.24-03.27.23:718][ 15]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.02.24-03.27.23:727][ 15]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.02.24-03.27.23:816][ 16]LogTextFormatter:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2017.02.24-03.27.46:510][223]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.02.24-03.27.47:874][223]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 111 classes and 0 folders.
+[2017.02.24-03.37.07:254][848]LogSavePackage: Save=122.80ms
+[2017.02.24-03.37.07:254][848]LogSavePackage: Moving '../../../../../../Users/mattlineback/git/monkeywrench/Saved/2DSideScrollerExampleMap_Auto1CBF0589E4EFAB3A9E62C9BA3E69DFA6A.tmp' to '../../../../../../Users/mattlineback/git/monkeywrench/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto1.umap'
+[2017.02.24-03.37.07:256][848]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/git/monkeywrench/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto1.umap
+[2017.02.24-03.37.07:262][848]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.203
+[2017.02.24-03.37.07:262][848]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.203
+[2017.02.24-03.37.07:265][848]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter] ([1] browsable assets)...
+[2017.02.24-03.37.07:265][848]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter]
+[2017.02.24-03.37.07:394][848]LogSavePackage: Save=111.22ms
+[2017.02.24-03.37.07:394][848]LogSavePackage: Moving '../../../../../../Users/mattlineback/git/monkeywrench/Saved/2DSideScrollerCharacter_Auto15979DE8A4D25E7853B16D88219A913C0.tmp' to '../../../../../../Users/mattlineback/git/monkeywrench/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter_Auto1.uasset'
+[2017.02.24-03.37.07:397][848]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/git/monkeywrench/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter_Auto1.uasset
+[2017.02.24-03.37.07:397][848]LogFileHelpers: Auto-saving content packages took 0.133
+[2017.02.24-03.42.09:706][856]Cmd: TRANSACTION UNDO
+[2017.02.24-03.42.09:706][856]LogEditorTransaction: Undo Move Node
+[2017.02.24-03.42.10:904][864]Cmd: TRANSACTION UNDO
+[2017.02.24-03.42.10:905][864]LogEditorTransaction: Undo Add Node
+[2017.02.24-03.43.49:094][513]LogSavePackage: Save=61.77ms
+[2017.02.24-03.43.49:094][513]LogSavePackage: Moving '../../../../../../Users/mattlineback/git/monkeywrench/Saved/2DSideScrollerCharacter56C69A4A4812824284D64BA2EF9A389D.tmp' to '../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2017.02.24-03.43.49:101][513]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset
+[2017.02.24-03.47.26:685][987]SourceControl: Info On branch master
+[2017.02.24-03.47.26:685][987]SourceControl: Info Your branch is up-to-date with 'origin/master'.
+[2017.02.24-03.47.26:685][987]SourceControl: Info Changes not staged for commit:
+[2017.02.24-03.47.26:685][987]SourceControl: Info   (use "git add <file>..." to update what will be committed)
+[2017.02.24-03.47.26:685][987]SourceControl: Info   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.02.24-03.47.26:685][987]SourceControl: Info 	modified:   Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset
+[2017.02.24-03.47.26:685][987]SourceControl: Info 	modified:   Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap
+[2017.02.24-03.47.26:685][987]SourceControl: Info 	modified:   Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset
+[2017.02.24-03.47.26:685][987]SourceControl: Info 	modified:   Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter_Auto1.uasset
+[2017.02.24-03.47.26:685][987]SourceControl: Info 	modified:   Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto1.umap
+[2017.02.24-03.47.26:685][987]SourceControl: Info 	modified:   Saved/Autosaves/PackageRestoreData.json
+[2017.02.24-03.47.26:685][987]SourceControl: Info 	modified:   Saved/Config/Windows/Editor.ini
+[2017.02.24-03.47.26:685][987]SourceControl: Info 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2017.02.24-03.47.26:685][987]SourceControl: Info 	modified:   Saved/Config/WorldState/2301629174.json
+[2017.02.24-03.47.26:685][987]SourceControl: Info 	modified:   Saved/Logs/MonkeyWrench.log
+[2017.02.24-03.47.26:685][987]SourceControl: Info Untracked files:
+[2017.02.24-03.47.26:685][987]SourceControl: Info   (use "git add <file>..." to include in what will be committed)
+[2017.02.24-03.47.26:686][987]SourceControl: Info 	Saved/Backup/2DSideScrollerCharacter_2017-02-23-22-37-07.uasset
+[2017.02.24-03.47.26:686][987]SourceControl: Info 	Saved/Backup/2DSideScrollerCharacter_2017-02-23-22-43-49.uasset
+[2017.02.24-03.47.26:686][987]SourceControl: Info 	Saved/Backup/2DSideScrollerExampleMap_2017-02-23-22-25-53.umap
+[2017.02.24-03.47.26:686][987]SourceControl: Info 	Saved/Backup/2DSideScrollerExampleMap_2017-02-23-22-37-07.umap
+[2017.02.24-03.47.26:686][987]SourceControl: Info 	Saved/Backup/2DSideScrollerExampleMap_BuiltData_2017-02-23-22-25-53.uasset
+[2017.02.24-03.47.26:686][987]SourceControl: Info no changes added to commit (use "git add" and/or "git commit -a")
+[2017.02.24-03.47.26:899][987]LogMetaData: Removing '/Game/2DSideScrollerBP/Blueprints/AnimationState.AnimationState' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/NewUserDefinedEnum.PackageMetaData'
+[2017.02.24-03.47.26:936][987]LogSavePackage: Save=5.10ms
+[2017.02.24-03.47.26:936][987]LogSavePackage: Moving '../../../../../../Users/mattlineback/git/monkeywrench/Saved/AnimationState16EB459945FBD1D140B76EB887767AF4.tmp' to '../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScrollerBP/Blueprints/AnimationState.uasset'
+[2017.02.24-03.47.26:940][987]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScrollerBP/Blueprints/AnimationState.uasset
+[2017.02.24-03.47.27:081][987]LogSavePackage: Save=5.30ms
+[2017.02.24-03.47.27:082][987]LogSavePackage: Moving '../../../../../../Users/mattlineback/git/monkeywrench/Saved/NewUserDefinedEnum24C5EC8E401991E3A7A005AA40CDF5D6.tmp' to '../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScrollerBP/Blueprints/NewUserDefinedEnum.uasset'
+[2017.02.24-03.47.27:085][987]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScrollerBP/Blueprints/NewUserDefinedEnum.uasset
+[2017.02.24-03.47.34:342][ 44]LogTemp: Repeting last play command: Selected Viewport
+[2017.02.24-03.47.34:375][ 44]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.02.24-03.47.34:375][ 44]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.02.24-03.47.34:391][ 44]LogPlayLevel: [PlayLevel] Compiling 2DSideScrollerCharacter before play...
+[2017.02.24-03.47.34:488][ 44]LogUObjectGlobals:Warning: Guid referenced by CapsuleComponent /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254.CollisionCylinder is already used by CapsuleComponent /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.REINST_2DSideScrollerCharacter_C_0.CollisionCylinder, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.02.24-03.47.34:488][ 44]LogUObjectGlobals:Warning: Guid referenced by ArrowComponent /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254.Arrow is already used by ArrowComponent /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.REINST_2DSideScrollerCharacter_C_0.Arrow, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.02.24-03.47.34:488][ 44]LogUObjectGlobals:Warning: Guid referenced by CharacterMovementComponent /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254.CharMoveComp is already used by CharacterMovementComponent /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.REINST_2DSideScrollerCharacter_C_0.CharMoveComp, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.02.24-03.47.34:488][ 44]LogUObjectGlobals:Warning: Guid referenced by PaperFlipbookComponent /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254.Sprite0 is already used by PaperFlipbookComponent /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.REINST_2DSideScrollerCharacter_C_0.Sprite0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.02.24-03.47.34:924][ 44]LogPlayLevel: PlayLevel: Blueprint regeneration took 549 ms (1 blueprints)
+[2017.02.24-03.47.34:924][ 44]PIE: New page: PIE session: 2DSideScrollerExampleMap (Feb 23, 2017, 5:47:34 PM)
+[2017.02.24-03.47.34:925][ 44]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2017.02.24-03.47.34:928][ 44]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002973s)
+[2017.02.24-03.47.34:928][ 44]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.02.24-03.47.34:928][ 44]LogPlayLevel: PIE: World Init took: (0.000813s)
+[2017.02.24-03.47.34:929][ 44]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.004039s)
+[2017.02.24-03.47.34:994][ 44]LogInit: XAudio2 using 'AMD HDMI Output (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.02.24-03.47.35:003][ 44]LogInit: FAudioDevice initialized.
+[2017.02.24-03.47.35:033][ 44]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.02.24-03.47.35:038][ 44]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2017.02.23-22.47.35
+[2017.02.24-03.47.35:039][ 44]LogWorld: Bringing up level for play took: 0.004468
+[2017.02.24-03.47.35:041][ 44]PIE: Info Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.035
+[2017.02.24-03.47.35:041][ 44]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.02.24-03.48.00:044][391]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.02.24-03.48.00:235][391]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.02.24-03.48.02:008][406]LogTemp: Repeting last play command: Selected Viewport
+[2017.02.24-03.48.02:040][406]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.02.24-03.48.02:040][406]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.24-03.48.02:040][406]PIE: New page: PIE session: 2DSideScrollerExampleMap (Feb 23, 2017, 5:48:02 PM)
+[2017.02.24-03.48.02:040][406]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2017.02.24-03.48.02:047][406]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006402s)
+[2017.02.24-03.48.02:048][406]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.02.24-03.48.02:048][406]LogPlayLevel: PIE: World Init took: (0.001293s)
+[2017.02.24-03.48.02:049][406]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.008155s)
+[2017.02.24-03.48.02:161][406]LogInit: XAudio2 using 'AMD HDMI Output (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.02.24-03.48.02:175][406]LogInit: FAudioDevice initialized.
+[2017.02.24-03.48.02:205][406]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.02.24-03.48.02:209][406]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2017.02.23-22.48.02
+[2017.02.24-03.48.02:210][406]LogWorld: Bringing up level for play took: 0.003723
+[2017.02.24-03.48.02:229][406]PIE: Info Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 1.153
+[2017.02.24-03.48.02:230][406]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.02.24-03.48.15:039][587]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.02.24-03.48.15:217][587]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.02.24-03.51.03:611][726]LogSavePackage: Save=124.48ms
+[2017.02.24-03.51.03:611][726]LogSavePackage: Moving '../../../../../../Users/mattlineback/git/monkeywrench/Saved/2DSideScrollerExampleMap_Auto256CD13C34A1967FF9B7D64AC2B0EDCF8.tmp' to '../../../../../../Users/mattlineback/git/monkeywrench/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto2.umap'
+[2017.02.24-03.51.03:613][726]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/git/monkeywrench/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto2.umap
+[2017.02.24-03.51.03:615][726]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.191
+[2017.02.24-03.51.03:615][726]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.191
+[2017.02.24-03.51.03:618][726]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter] ([1] browsable assets)...
+[2017.02.24-03.51.03:618][726]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter]
+[2017.02.24-03.51.03:693][726]LogSavePackage: Save=57.19ms
+[2017.02.24-03.51.03:693][726]LogSavePackage: Moving '../../../../../../Users/mattlineback/git/monkeywrench/Saved/2DSideScrollerCharacter_Auto2B64978374E8F207C5D76BBB9CBE6D15E.tmp' to '../../../../../../Users/mattlineback/git/monkeywrench/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter_Auto2.uasset'
+[2017.02.24-03.51.03:695][726]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/git/monkeywrench/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter_Auto2.uasset
+[2017.02.24-03.51.03:695][726]LogFileHelpers: Auto-saving content packages took 0.079
+[2017.02.24-03.53.31:843][721]LogEditorTransaction: Undo Move Node
+[2017.02.24-03.53.33:437][731]LogEditorTransaction: Undo Move Node
+[2017.02.24-03.53.34:835][740]LogEditorTransaction: Undo Add Node
+[2017.02.24-03.54.19:921][ 41]LogEditorTransaction: Undo Add Node
+[2017.02.24-03.56.20:359][849]LogSavePackage: Save=76.14ms
+[2017.02.24-03.56.20:359][849]LogSavePackage: Moving '../../../../../../Users/mattlineback/git/monkeywrench/Saved/2DSideScrollerCharacter770489194DF37E31E37E32A0BD9C0051.tmp' to '../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2017.02.24-03.56.20:366][849]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset
+[2017.02.24-04.01.15:223][727]LogSavePackage: Save=129.28ms
+[2017.02.24-04.01.15:224][727]LogSavePackage: Moving '../../../../../../Users/mattlineback/git/monkeywrench/Saved/2DSideScrollerExampleMap_Auto302A53AF7459AECBF26A44E813AD6AE94.tmp' to '../../../../../../Users/mattlineback/git/monkeywrench/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto3.umap'
+[2017.02.24-04.01.15:226][727]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/git/monkeywrench/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto3.umap
+[2017.02.24-04.01.15:228][727]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.208
+[2017.02.24-04.01.15:228][727]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.208
+[2017.02.24-04.17.42:906][702]LogSavePackage: Save=125.11ms
+[2017.02.24-04.17.42:906][702]LogSavePackage: Moving '../../../../../../Users/mattlineback/git/monkeywrench/Saved/2DSideScrollerExampleMap2FA609BB4F2E3480B7C33F8C21EF27D5.tmp' to '../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2017.02.24-04.17.42:913][702]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap
+[2017.02.24-04.17.43:050][702]LogSavePackage: Save=5.08ms
+[2017.02.24-04.17.43:050][702]LogSavePackage: Moving '../../../../../../Users/mattlineback/git/monkeywrench/Saved/2DSideScrollerExampleMap_BuiltData8813BCD64E8841F56A3D0D8A786F79D7.tmp' to '../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2017.02.24-04.17.43:052][702]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset
+[2017.02.24-04.17.49:519][757]SourceControl: Info fatal: C:/Program Files (x86)/Epic Games/4.14/Engine/Content/: 'C:/Program Files (x86)/Epic Games/4.14/Engine/Content/' is outside repository
+[2017.02.24-04.17.49:670][757]LogPackageName:Error: Illegal call to DoesPackageExist: '../../../../../../Users/mattlineback/git/monkeywrench/MonkeyWrench.uproject' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2017.02.24-04.18.16:057][757]LogSourceControl: FGitCheckInWorker: commit successful
+[2017.02.24-04.18.16:146][757]SourceControl: Info [master f89716b] added animation state machine function
+[2017.02.24-04.18.16:146][757]SourceControl: Info  5 files changed, 0 insertions(+), 0 deletions(-)
+[2017.02.24-04.18.16:146][757]SourceControl: Info  rewrite Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset (63%)
+[2017.02.24-04.18.16:146][757]SourceControl: Info  create mode 100644 Content/2DSideScrollerBP/Blueprints/AnimationState.uasset
+[2017.02.24-04.18.16:146][757]SourceControl: Info  rewrite Content/2DSideScrollerBP/Blueprints/NewUserDefinedEnum.uasset (100%)
+[2017.02.24-04.18.16:150][757]SourceControl: Info Commited [master f89716b] added animation state machine function.
+[2017.02.24-04.18.34:996][900]LogSavePackage: Save=121.11ms
+[2017.02.24-04.18.34:996][900]LogSavePackage: Moving '../../../../../../Users/mattlineback/git/monkeywrench/Saved/2DSideScrollerExampleMap19E1A2B44B8936CB77DC51A8978863F3.tmp' to '../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2017.02.24-04.18.34:998][900]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap
+[2017.02.24-04.18.35:100][900]LogSavePackage: Save=4.38ms
+[2017.02.24-04.18.35:100][900]LogSavePackage: Moving '../../../../../../Users/mattlineback/git/monkeywrench/Saved/2DSideScrollerExampleMap_BuiltData20693BCB4F03EB89B2AA0A86E1F09968.tmp' to '../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2017.02.24-04.18.35:102][900]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/mattlineback/git/monkeywrench/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset
+[2017.02.24-04.18.38:873][931]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.02.24-04.18.39:078][932]Cmd: QUIT_EDITOR
+[2017.02.24-04.18.39:784][932]LogExit: Preparing to exit.
+[2017.02.24-04.18.40:565][932]LogDirectoryWatcher: A directory notification for 'C:/Users/mattlineback/git/monkeywrench/Content/' was aborted.
+[2017.02.24-04.18.40:671][932]LogExit: Editor shut down
+[2017.02.24-04.18.40:673][932]LogExit: Transaction tracking system shut down
+[2017.02.24-04.18.40:820][932]LogObj: Freed 0b from 0 cluster array pools.
+[2017.02.24-04.18.40:821][932]LogExit: Object subsystem successfully closed.
+[2017.02.24-04.18.40:838][932]LogD3D11RHI: Shutdown
+[2017.02.24-04.18.40:839][932]LogD3D11RHI: CleanupD3DDevice
+[2017.02.24-04.18.40:970][932]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.02.24-04.18.40:989][932]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.02.24-04.18.40:989][932]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3C1C744D-4BBC-C391-DC7C-D79896B6E88F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.3-3249277%2B%2B%2BUE4%2BRelease-4.14&UserID=063ea8b74d033e1b8770998eb4b43c95%7C7688f66bf330434687681f731b7ab27c%7C21693357-8d08-49fe-8eb2-9dfd6ac3f214&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.02.24-04.18.41:002][932]LogModuleManager: Shutting down and abandoning module BlueprintGraph (245)
+[2017.02.24-04.18.41:002][932]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (244)
+[2017.02.24-04.18.41:030][932]LogModuleManager: Shutting down and abandoning module TextureEditor (243)
+[2017.02.24-04.18.41:030][932]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (242)
+[2017.02.24-04.18.41:030][932]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (241)
+[2017.02.24-04.18.41:030][932]LogModuleManager: Shutting down and abandoning module CrashTracker (240)
+[2017.02.24-04.18.41:030][932]LogModuleManager: Shutting down and abandoning module SceneOutliner (239)
+[2017.02.24-04.18.41:030][932]LogModuleManager: Shutting down and abandoning module WidgetCarousel (238)
+[2017.02.24-04.18.41:030][932]LogModuleManager: Shutting down and abandoning module AddContentDialog (237)
+[2017.02.24-04.18.41:030][932]LogDirectoryWatcher: A directory notification for 'C:/Program Files (x86)/Epic Games/4.14/FeaturePacks/' was aborted.
+[2017.02.24-04.18.41:037][932]LogModuleManager: Shutting down and abandoning module GameplayTags (236)
+[2017.02.24-04.18.41:037][932]LogModuleManager: Shutting down and abandoning module EditorWidgets (235)
+[2017.02.24-04.18.41:037][932]LogModuleManager: Shutting down and abandoning module CollectionManager (234)
+[2017.02.24-04.18.41:037][932]LogDirectoryWatcher: A directory notification for 'C:/Users/mattlineback/git/monkeywrench/Content/Collections/' was aborted.
+[2017.02.24-04.18.41:037][932]LogDirectoryWatcher: A directory notification for 'C:/Users/mattlineback/git/monkeywrench/Content/Developers/mattlineback/Collections/' was aborted.
+[2017.02.24-04.18.41:037][932]LogDirectoryWatcher: A directory notification for 'C:/Users/mattlineback/git/monkeywrench/Saved/Collections/' was aborted.
+[2017.02.24-04.18.41:037][932]LogModuleManager: Shutting down and abandoning module StatsViewer (233)
+[2017.02.24-04.18.41:037][932]LogModuleManager: Shutting down and abandoning module FoliageEdit (232)
+[2017.02.24-04.18.41:037][932]LogModuleManager: Shutting down and abandoning module LandscapeEditor (231)
+[2017.02.24-04.18.41:037][932]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (230)
+[2017.02.24-04.18.41:037][932]LogModuleManager: Shutting down and abandoning module ActorPickerMode (229)
+[2017.02.24-04.18.41:037][932]LogModuleManager: Shutting down and abandoning module GeometryMode (228)
+[2017.02.24-04.18.41:037][932]LogModuleManager: Shutting down and abandoning module TextureAlignMode (227)
+[2017.02.24-04.18.41:037][932]LogModuleManager: Shutting down and abandoning module BspMode (226)
+[2017.02.24-04.18.41:037][932]LogModuleManager: Shutting down and abandoning module HardwareSurvey (225)
+[2017.02.24-04.18.41:038][932]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (224)
+[2017.02.24-04.18.41:038][932]LogModuleManager: Shutting down and abandoning module AutomationWorker (223)
+[2017.02.24-04.18.41:038][932]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (222)
+[2017.02.24-04.18.41:038][932]LogModuleManager: Shutting down and abandoning module PlacementMode (221)
+[2017.02.24-04.18.41:038][932]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (220)
+[2017.02.24-04.18.41:038][932]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (219)
+[2017.02.24-04.18.41:038][932]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (218)
+[2017.02.24-04.18.41:038][932]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (217)
+[2017.02.24-04.18.41:038][932]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (216)
+[2017.02.24-04.18.41:038][932]LogModuleManager: Shutting down and abandoning module Media (215)
+[2017.02.24-04.18.41:038][932]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (214)
+[2017.02.24-04.18.41:038][932]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (213)
+[2017.02.24-04.18.41:038][932]LogModuleManager: Shutting down and abandoning module CharacterAI (212)
+[2017.02.24-04.18.41:038][932]LogModuleManager: Shutting down and abandoning module SequenceRecorder (211)
+[2017.02.24-04.18.41:038][932]LogModuleManager: Shutting down and abandoning module AudioCapture (210)
+[2017.02.24-04.18.41:038][932]LogModuleManager: Shutting down and abandoning module SmartSnapping (209)
+[2017.02.24-04.18.41:038][932]LogModuleManager: Shutting down and abandoning module SessionServices (208)
+[2017.02.24-04.18.41:038][932]LogModuleManager: Shutting down and abandoning module ViewportSnapping (207)
+[2017.02.24-04.18.41:038][932]LogModuleManager: Shutting down and abandoning module ViewportInteraction (206)
+[2017.02.24-04.18.41:038][932]LogModuleManager: Shutting down and abandoning module LogVisualizer (205)
+[2017.02.24-04.18.41:038][932]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (204)
+[2017.02.24-04.18.41:038][932]LogModuleManager: Shutting down and abandoning module IntroTutorials (203)
+[2017.02.24-04.18.41:038][932]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (202)
+[2017.02.24-04.18.41:038][932]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (201)
+[2017.02.24-04.18.41:038][932]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (200)
+[2017.02.24-04.18.41:038][932]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (199)
+[2017.02.24-04.18.41:457][932]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (198)
+[2017.02.24-04.18.41:457][932]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (197)
+[2017.02.24-04.18.41:457][932]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (196)
+[2017.02.24-04.18.41:457][932]LogModuleManager: Shutting down and abandoning module InputBindingEditor (195)
+[2017.02.24-04.18.41:458][932]LogModuleManager: Shutting down and abandoning module NiagaraEditor (194)
+[2017.02.24-04.18.41:458][932]LogModuleManager: Shutting down and abandoning module MergeActors (193)
+[2017.02.24-04.18.41:458][932]LogModuleManager: Shutting down and abandoning module SizeMap (192)
+[2017.02.24-04.18.41:458][932]LogModuleManager: Shutting down and abandoning module TreeMap (191)
+[2017.02.24-04.18.41:458][932]LogModuleManager: Shutting down and abandoning module ReferenceViewer (190)
+[2017.02.24-04.18.41:458][932]LogModuleManager: Shutting down and abandoning module LocalizationService (189)
+[2017.02.24-04.18.41:458][932]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (188)
+[2017.02.24-04.18.41:458][932]LogModuleManager: Shutting down and abandoning module HardwareTargeting (187)
+[2017.02.24-04.18.41:458][932]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (186)
+[2017.02.24-04.18.41:458][932]LogModuleManager: Shutting down and abandoning module UndoHistory (185)
+[2017.02.24-04.18.41:458][932]LogModuleManager: Shutting down and abandoning module UserFeedback (184)
+[2017.02.24-04.18.41:458][932]LogModuleManager: Shutting down and abandoning module XmlParser (183)
+[2017.02.24-04.18.41:458][932]LogModuleManager: Shutting down and abandoning module Blutility (182)
+[2017.02.24-04.18.41:458][932]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (181)
+[2017.02.24-04.18.41:459][932]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (180)
+[2017.02.24-04.18.41:459][932]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (179)
+[2017.02.24-04.18.41:459][932]LogModuleManager: Shutting down and abandoning module SettingsEditor (178)
+[2017.02.24-04.18.41:459][932]LogModuleManager: Shutting down and abandoning module ProjectLauncher (177)
+[2017.02.24-04.18.41:459][932]LogModuleManager: Shutting down and abandoning module SessionFrontend (176)
+[2017.02.24-04.18.41:459][932]LogModuleManager: Shutting down and abandoning module ProfilerClient (175)
+[2017.02.24-04.18.41:459][932]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (174)
+[2017.02.24-04.18.41:459][932]LogModuleManager: Shutting down and abandoning module DeviceManager (173)
+[2017.02.24-04.18.41:503][932]LogModuleManager: Shutting down and abandoning module AutomationController (172)
+[2017.02.24-04.18.41:503][932]LogModuleManager: Shutting down and abandoning module AutomationWindow (171)
+[2017.02.24-04.18.41:503][932]LogModuleManager: Shutting down and abandoning module Layers (170)
+[2017.02.24-04.18.41:503][932]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (169)
+[2017.02.24-04.18.41:503][932]LogModuleManager: Shutting down and abandoning module DetailCustomizations (168)
+[2017.02.24-04.18.41:503][932]LogModuleManager: Shutting down and abandoning module PackagesDialog (167)
+[2017.02.24-04.18.41:503][932]LogModuleManager: Shutting down and abandoning module AnimGraph (166)
+[2017.02.24-04.18.41:503][932]LogModuleManager: Shutting down and abandoning module Persona (165)
+[2017.02.24-04.18.41:503][932]LogModuleManager: Shutting down and abandoning module Kismet (164)
+[2017.02.24-04.18.41:513][932]LogModuleManager: Shutting down and abandoning module GraphEditor (163)
+[2017.02.24-04.18.41:514][932]LogModuleManager: Shutting down and abandoning module ClassViewer (162)
+[2017.02.24-04.18.41:514][932]LogModuleManager: Shutting down and abandoning module Toolbox (161)
+[2017.02.24-04.18.41:514][932]LogModuleManager: Shutting down and abandoning module ModuleUI (160)
+[2017.02.24-04.18.41:514][932]LogModuleManager: Shutting down and abandoning module MovieSceneTools (159)
+[2017.02.24-04.18.41:514][932]LogModuleManager: Shutting down and abandoning module OutputLog (158)
+[2017.02.24-04.18.41:514][932]LogModuleManager: Shutting down and abandoning module GammaUI (157)
+[2017.02.24-04.18.41:514][932]LogModuleManager: Shutting down and abandoning module Documentation (156)
+[2017.02.24-04.18.41:514][932]LogModuleManager: Shutting down and abandoning module Niagara (155)
+[2017.02.24-04.18.41:514][932]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (154)
+[2017.02.24-04.18.41:514][932]LogModuleManager: Shutting down and abandoning module AnalyticsET (153)
+[2017.02.24-04.18.41:514][932]LogModuleManager: Shutting down and abandoning module PortalServices (152)
+[2017.02.24-04.18.41:514][932]LogModuleManager: Shutting down and abandoning module PortalRpc (151)
+[2017.02.24-04.18.41:514][932]LogModuleManager: Shutting down and abandoning module MessagingRpc (150)
+[2017.02.24-04.18.41:514][932]LogModuleManager: Shutting down and abandoning module GameplayDebugger (149)
+[2017.02.24-04.18.41:514][932]LogModuleManager: Shutting down and abandoning module AITestSuite (148)
+[2017.02.24-04.18.41:514][932]LogModuleManager: Shutting down and abandoning module AIModule (147)
+[2017.02.24-04.18.41:514][932]LogModuleManager: Shutting down and abandoning module ProfilerService (146)
+[2017.02.24-04.18.41:672][932]LogModuleManager: Shutting down and abandoning module TaskGraph (145)
+[2017.02.24-04.18.41:673][932]LogModuleManager: Shutting down and abandoning module SlateRemote (144)
+[2017.02.24-04.18.41:673][932]LogModuleManager: Shutting down and abandoning module SteamVRController (143)
+[2017.02.24-04.18.41:673][932]LogModuleManager: Shutting down and abandoning module SteamVR (142)
+[2017.02.24-04.18.41:673][932]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (141)
+[2017.02.24-04.18.41:673][932]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (140)
+[2017.02.24-04.18.41:673][932]LogModuleManager: Shutting down and abandoning module OculusLibrary (139)
+[2017.02.24-04.18.41:673][932]LogModuleManager: Shutting down and abandoning module OculusInput (138)
+[2017.02.24-04.18.41:673][932]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (137)
+[2017.02.24-04.18.41:673][932]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (136)
+[2017.02.24-04.18.41:673][932]LogModuleManager: Shutting down and abandoning module CableComponent (135)
+[2017.02.24-04.18.41:673][932]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (134)
+[2017.02.24-04.18.41:673][932]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (132)
+[2017.02.24-04.18.41:673][932]LogModuleManager: Shutting down and abandoning module HTML5Networking (131)
+[2017.02.24-04.18.41:673][932]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (130)
+[2017.02.24-04.18.41:673][932]LogModuleManager: Shutting down and abandoning module GeometryCache (129)
+[2017.02.24-04.18.41:673][932]LogModuleManager: Shutting down and abandoning module AlembicLibrary (128)
+[2017.02.24-04.18.41:673][932]LogModuleManager: Shutting down and abandoning module AlembicImporter (127)
+[2017.02.24-04.18.41:673][932]LogModuleManager: Shutting down and abandoning module SuperSearch (126)
+[2017.02.24-04.18.41:673][932]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (125)
+[2017.02.24-04.18.41:673][932]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (124)
+[2017.02.24-04.18.41:673][932]LogModuleManager: Shutting down and abandoning module PluginBrowser (123)
+[2017.02.24-04.18.41:673][932]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (122)
+[2017.02.24-04.18.41:673][932]LogModuleManager: Shutting down and abandoning module EpicSurvey (121)
+[2017.02.24-04.18.41:673][932]LogModuleManager: Shutting down and abandoning module DesktopPlatform (120)
+[2017.02.24-04.18.41:673][932]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (119)
+[2017.02.24-04.18.41:674][932]LogModuleManager: Shutting down and abandoning module UObjectPlugin (118)
+[2017.02.24-04.18.41:674][932]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (117)
+[2017.02.24-04.18.41:674][932]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (116)
+[2017.02.24-04.18.41:674][932]LogModuleManager: Shutting down and abandoning module SourceControl (115)
+[2017.02.24-04.18.41:674][932]LogModuleManager: Shutting down and abandoning module GitSourceControl (114)
+[2017.02.24-04.18.41:674][932]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (113)
+[2017.02.24-04.18.41:674][932]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (112)
+[2017.02.24-04.18.41:674][932]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (111)
+[2017.02.24-04.18.41:674][932]LogModuleManager: Shutting down and abandoning module MeshPaint (110)
+[2017.02.24-04.18.41:674][932]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (109)
+[2017.02.24-04.18.41:674][932]LogModuleManager: Shutting down and abandoning module HotReload (108)
+[2017.02.24-04.18.41:675][932]LogModuleManager: Shutting down and abandoning module MainFrame (107)
+[2017.02.24-04.18.41:675][932]LogModuleManager: Shutting down and abandoning module LevelEditor (106)
+[2017.02.24-04.18.41:677][932]LogModuleManager: Shutting down and abandoning module ContentBrowser (105)
+[2017.02.24-04.18.41:680][932]LogModuleManager: Shutting down and abandoning module Paper2DEditor (104)
+[2017.02.24-04.18.41:680][932]LogModuleManager: Shutting down and abandoning module UdpMessaging (103)
+[2017.02.24-04.18.41:781][932]LogModuleManager: Shutting down and abandoning module TcpMessaging (102)
+[2017.02.24-04.18.41:882][932]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (101)
+[2017.02.24-04.18.41:882][932]LogModuleManager: Shutting down and abandoning module Paper2D (100)
+[2017.02.24-04.18.41:882][932]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (99)
+[2017.02.24-04.18.41:882][932]LogModuleManager: Shutting down and abandoning module WmfMedia (98)
+[2017.02.24-04.18.41:882][932]LogModuleManager: Shutting down and abandoning module MediaAssets (97)
+[2017.02.24-04.18.41:882][932]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (96)
+[2017.02.24-04.18.41:882][932]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (95)
+[2017.02.24-04.18.41:882][932]LogModuleManager: Shutting down and abandoning module VREditor (94)
+[2017.02.24-04.18.41:882][932]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (93)
+[2017.02.24-04.18.41:882][932]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (92)
+[2017.02.24-04.18.41:882][932]LogModuleManager: Shutting down and abandoning module FunctionalTesting (91)
+[2017.02.24-04.18.41:882][932]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (90)
+[2017.02.24-04.18.41:882][932]LogModuleManager: Shutting down and abandoning module Sequencer (89)
+[2017.02.24-04.18.41:883][932]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (88)
+[2017.02.24-04.18.41:883][932]LogModuleManager: Shutting down and abandoning module MessageLog (87)
+[2017.02.24-04.18.41:883][932]LogModuleManager: Shutting down and abandoning module AssetTools (86)
+[2017.02.24-04.18.41:883][932]LogModuleManager: Shutting down and abandoning module UMGEditor (85)
+[2017.02.24-04.18.41:883][932]LogModuleManager: Shutting down and abandoning module UMG (84)
+[2017.02.24-04.18.41:883][932]LogModuleManager: Shutting down and abandoning module SlateReflector (83)
+[2017.02.24-04.18.41:883][932]LogModuleManager: Shutting down and abandoning module Slate (82)
+[2017.02.24-04.18.41:883][932]LogModuleManager: Shutting down and abandoning module EditorStyle (81)
+[2017.02.24-04.18.41:889][932]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (80)
+[2017.02.24-04.18.41:889][932]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (79)
+[2017.02.24-04.18.41:889][932]LogModuleManager: Shutting down and abandoning module XAudio2 (78)
+[2017.02.24-04.18.41:889][932]LogModuleManager: Shutting down and abandoning module Networking (76)
+[2017.02.24-04.18.41:889][932]LogModuleManager: Shutting down and abandoning module Core (75)
+[2017.02.24-04.18.41:889][932]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (74)
+[2017.02.24-04.18.41:889][932]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.02.24-04.18.41:891][932]LogDirectoryWatcher: A directory notification for '../../../../../../Users/mattlineback/git/monkeywrench/Content/' was aborted.
+[2017.02.24-04.18.41:892][932]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.02.24-04.18.41:899][932]LogModuleManager: Shutting down and abandoning module AssetRegistry (73)
+[2017.02.24-04.18.42:109][932]LogModuleManager: Shutting down and abandoning module KismetCompiler (72)
+[2017.02.24-04.18.42:109][932]LogModuleManager: Shutting down and abandoning module PhysXFormats (71)
+[2017.02.24-04.18.42:109][932]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (70)
+[2017.02.24-04.18.42:109][932]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (69)
+[2017.02.24-04.18.42:109][932]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (68)
+[2017.02.24-04.18.42:109][932]LogModuleManager: Shutting down and abandoning module PropertyEditor (67)
+[2017.02.24-04.18.42:109][932]LogModuleManager: Shutting down and abandoning module MeshUtilities (66)
+[2017.02.24-04.18.42:109][932]LogModuleManager: Shutting down and abandoning module DerivedDataCache (65)
+[2017.02.24-04.18.42:203][932]LogDerivedDataCache: Shutdown
+[2017.02.24-04.18.42:203][932]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (64)
+[2017.02.24-04.18.42:203][932]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (63)
+[2017.02.24-04.18.42:203][932]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (62)
+[2017.02.24-04.18.42:203][932]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (61)
+[2017.02.24-04.18.42:203][932]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (60)
+[2017.02.24-04.18.42:203][932]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (59)
+[2017.02.24-04.18.42:203][932]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (58)
+[2017.02.24-04.18.42:203][932]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (57)
+[2017.02.24-04.18.42:203][932]LogModuleManager: Shutting down and abandoning module ImageWrapper (56)
+[2017.02.24-04.18.42:203][932]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (55)
+[2017.02.24-04.18.42:203][932]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (54)
+[2017.02.24-04.18.42:203][932]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (53)
+[2017.02.24-04.18.42:203][932]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (52)
+[2017.02.24-04.18.42:203][932]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (51)
+[2017.02.24-04.18.42:204][932]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (50)
+[2017.02.24-04.18.42:204][932]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (49)
+[2017.02.24-04.18.42:204][932]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (48)
+[2017.02.24-04.18.42:204][932]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (47)
+[2017.02.24-04.18.42:204][932]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (46)
+[2017.02.24-04.18.42:204][932]LogModuleManager: Shutting down and abandoning module Messaging (45)
+[2017.02.24-04.18.42:204][932]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (44)
+[2017.02.24-04.18.42:204][932]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (43)
+[2017.02.24-04.18.42:204][932]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (42)
+[2017.02.24-04.18.42:204][932]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (41)
+[2017.02.24-04.18.42:204][932]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (40)
+[2017.02.24-04.18.42:204][932]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (39)
+[2017.02.24-04.18.42:204][932]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (38)
+[2017.02.24-04.18.42:204][932]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (37)
+[2017.02.24-04.18.42:204][932]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (36)
+[2017.02.24-04.18.42:205][932]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (35)
+[2017.02.24-04.18.42:205][932]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (34)
+[2017.02.24-04.18.42:205][932]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (33)
+[2017.02.24-04.18.42:205][932]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (32)
+[2017.02.24-04.18.42:205][932]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (31)
+[2017.02.24-04.18.42:205][932]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (30)
+[2017.02.24-04.18.42:205][932]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (29)
+[2017.02.24-04.18.42:205][932]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (28)
+[2017.02.24-04.18.42:205][932]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (27)
+[2017.02.24-04.18.42:205][932]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2017.02.24-04.18.42:205][932]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2017.02.24-04.18.42:205][932]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2017.02.24-04.18.42:205][932]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2017.02.24-04.18.42:205][932]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2017.02.24-04.18.42:205][932]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (21)
+[2017.02.24-04.18.42:205][932]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (20)
+[2017.02.24-04.18.42:205][932]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (18)
+[2017.02.24-04.18.42:205][932]LogOnline:Display: Unloading online subsystem: NULL
+[2017.02.24-04.18.42:205][932]LogModuleManager: Shutting down and abandoning module SSL (17)
+[2017.02.24-04.18.42:209][932]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2017.02.24-04.18.42:209][932]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2017.02.24-04.18.42:209][932]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2017.02.24-04.18.42:209][932]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2017.02.24-04.18.42:209][932]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2017.02.24-04.18.42:209][932]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2017.02.24-04.18.42:221][932]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2017.02.24-04.18.42:221][932]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2017.02.24-04.18.42:221][932]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2017.02.24-04.18.42:221][932]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2017.02.24-04.18.42:221][932]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2017.02.24-04.18.42:221][932]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2017.02.24-04.18.42:221][932]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2017.02.24-04.18.42:221][932]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2017.02.24-04.18.42:221][932]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2017.02.24-04.18.42:221][932]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2017.02.24-04.18.42:224][932]LogExit: Exiting.
+[2017.02.24-04.18.42:232][932]Log file closed, 02/23/17 23:18:42
