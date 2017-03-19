@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 C:\Users\mattlineback\git\monkeywrench\Source\PuzzleProject\PuzzleProject.Build.cs
 C:\Users\mattlineback\git\monkeywrench\Source\PuzzleProject.Target.cs
 C:\Users\mattlineback\git\monkeywrench\Source\PuzzleProjectEditor.Target.cs
+=======
+C:\Users\mattlineback\git\monkeywrench\Source\PuzzleProject\PuzzleProject.Build.cs
+C:\Users\mattlineback\git\monkeywrench\Source\PuzzleProject.Target.cs
+C:\Users\mattlineback\git\monkeywrench\Source\PuzzleProjectEditor.Target.cs
+>>>>>>> 74f911bb3d27c7ef2665c4994951cdefcefdf09c
